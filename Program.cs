@@ -21,30 +21,53 @@ using (var streamReader = new StreamReader(filePath))
         (records, validationResults) = ValidationHelpers.WhiteHouseStaffFileValidation(records);
 
         (employees, validationResults) = TaskEmployee.Transform(records, validationResults);
-        //TaskEmployee.Load(employees);
+        TaskEmployee.Load(employees);
 
         (positions, validationResults) = TaskPosition.Transform(records, validationResults);
-        //TaskPosition.Load(positions);
+        TaskPosition.Load(positions);
 
         (salaries, validationResults) = TaskSalary.Transform(records, validationResults);
-        //TaskSalary.Load(salaries);
+        TaskSalary.Load(salaries);
 
         PrintInvalid(validationResults);
-        Console.WriteLine("finished");
     }
-
 }
 
-Console.ReadKey();
+//Console.ReadKey();
 
 void PrintInvalid(List<ValidationResult> invalidRecords)
 {
-    //Console.Write("year | name | gender | status | salary | pay_basis | position_title");
-    //foreach (var record in invalidRecords)
-    //{
-    //    Console.WriteLine($"{record.Year} | {record.Name} | {record.Gender} | {record.Status} | {record.Salary} | {record.PayBasis} | {record.PositionTitle}");
-    //}
+    string content = "";
+
+    foreach (var record in invalidRecords)
+    {
+        string yearStr = record.Record.Year == 1900 ? "" : record.Record.Year.ToString();
+        string salaryStr = record.Record.Salary == 0 ? "" : record.Record.Salary.ToString();
+
+        content = content + "Record: " + $"\n\tYear - {yearStr} \n\tName - {record.Record.Name} \n\tGender - {record.Record.Gender} \n\tStatus - {record.Record.Status} \n\tSalary - {salaryStr} \n\tPay Basis - {record.Record.PayBasis} \n\tPosition Title - {record.Record.PositionTitle}" + "\n";
+
+        if (record.Results["Validation Type"] == "Employee") content = content + "Employee: " + $"\n\tFirst Name - {record.Employee.FirstName} \n\tMiddle Initial - {record.Employee.MiddleInitial} \n\tLast Name - {record.Employee.LastName} \n\tGender - {record.Employee.Gender} \n";
+        if (record.Results["Validation Type"] == "Position") content = content + "Position: " + $"\n\tPosition Title - {record.Position.PositionTitle} \n\tPay Basis - {record.Position.PayBasis} \n\tStatus - {record.Position.Status} \n";
+        if (record.Results["Validation Type"] == "Salary") 
+        {
+            string salaryYearStr = record.Salary.Year == 1900 ? "" : record.Salary.Year.ToString();
+            string salarySalaryStr = record.Salary.EmployeeSalary == 0 ? "" : record.Salary.EmployeeSalary.ToString();
+            content = content + "Salary: " + $"\n\tSalary - {salarySalaryStr} \n\tYear - {salaryYearStr} \n";
+        } 
+
+        content = content + "Outcome: " + record.Passed + "\n";
+        content = content + "Results: \n";
+
+        foreach (KeyValuePair<string, string> kvp in record.Results)
+        {
+            content = content + "\t" + kvp.Key + ": " + kvp.Value + "\n";
+        }
+
+        content = content + "\n";
+    }
+
+    File.WriteAllText(@"C:\Users\torra\Desktop\Projects\WhiteHouseETL\WhiteHouseETL\ValidationResult.txt", content);
 
     Console.WriteLine(invalidRecords.Count());
-    
+    Console.WriteLine("finished");
 }

@@ -28,6 +28,7 @@ public static class ValidationHelpers
         else if (Regex.IsMatch(name, @"^[A-Za-z\-']+ [A-Za-z]+,[A-Za-z]")) validationResult.Passed = true;
         else if (Regex.IsMatch(name, @"^[A-Za-z\-']+,[A-Za-z]")) validationResult.Passed = true;
 
+        validationResult.Results.Add("Validation Type", "Employee");
         return validationResult;
     }
 
@@ -72,8 +73,9 @@ public static class ValidationHelpers
             || status == ValidationHelpers.GetEnumDescription(StatusEnum.Status.Detailee)
             || status == ValidationHelpers.GetEnumDescription(StatusEnum.Status.PartTime)) statusValid = true;
 
-        
-        if (positionValid == true && payBasisValid == true && statusValid == true && invalidCharactersCount == 0 && !ValidationHelpers.ContainsSeparator(position))
+        bool hasSeparators = !ValidationHelpers.ContainsSeparator(position);
+
+        if (positionValid == true && payBasisValid == true && statusValid == true && invalidCharactersCount == 0 && hasSeparators)
         {
             validationResult.Passed = true;
             validationResult.Results.Add("Invalid Characters:", invalidCharacters);
@@ -85,10 +87,12 @@ public static class ValidationHelpers
         else
         {
             validationResult.Passed = false;
-            validationResult.Results.Add("Invalid Characters:", invalidCharacters);
-            validationResult.Results.Add("Position Valid:", positionValid.ToString());
-            validationResult.Results.Add("Pay Basis Valid:", payBasisValid.ToString());
-            validationResult.Results.Add("Status Valid:", statusValid.ToString());
+            validationResult.Results.Add("Invalid Characters", invalidCharactersCount.ToString());
+            validationResult.Results.Add("Mutli Position Valid", positionValid.ToString());
+            validationResult.Results.Add("PayBasis Valid", payBasisValid.ToString());
+            validationResult.Results.Add("Status Valid", statusValid.ToString());
+            validationResult.Results.Add("No Separators", hasSeparators.ToString());
+            validationResult.Results.Add("Validation Type", "Position");
             return validationResult;
         }
     }
@@ -100,7 +104,9 @@ public static class ValidationHelpers
 
         foreach (WhiteHouseStaff record in records)
         {
-            if(record.Year != 1900 || record.Name != "" || record.Gender != "" || record.Status != "" || record.Salary != 0 || record.PayBasis != "" || record.PositionTitle != "")
+            ValidationResult validationResult = new ValidationResult();
+
+            if (!(record.Year == 1900 || record.Name == "" || record.Gender == "" || record.Status == "" || record.Salary == 0 || record.PayBasis == "" || record.PositionTitle == ""))
             {
                 validRecords.Add(new WhiteHouseStaff()
                 {
@@ -116,12 +122,12 @@ public static class ValidationHelpers
             }
             else
             {
-                validationResults.Add(new ValidationResult
-                {
-                    Record = record,
-                    Passed = false,
-                    Results = new Dictionary<string, string>{ { "Contains missing values", "true" } }
-                });
+                validationResult.Record = record;
+                validationResult.Passed = false;
+                validationResult.Results.Add("Missing Values", "true");
+                validationResult.Results.Add("Validation Type", "File");
+
+                validationResults.Add(validationResult);
             }
         }
 
@@ -141,8 +147,7 @@ public static class ValidationHelpers
         else
         {
             validationResult.Passed = false;
-            validationResult.Salary = new Salary() { EmployeeSalary = salary, Year = year };
-            validationResult.Results = new Dictionary<string, string>() { { "Salary value valid: ", salaryValid.ToString() }, { "Year value valid: ", yearValid.ToString() } };
+            validationResult.Results = new Dictionary<string, string>() { { "Salary Valid", salaryValid.ToString() }, { "Year Valid", yearValid.ToString() }, { "Validation Type", "Salary"} };
         }
 
         return validationResult;

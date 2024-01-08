@@ -22,13 +22,15 @@ public class TaskPosition
                 foreach (var role in roles)
                 {
                     validationResult = ValidationHelpers.PositionTableValidation(role, record.PayBasis, record.Status);
+                    Position position = new Position() { RowNumber = record.RowNumber, PositionTitle = role.Trim(), PayBasis = record.PayBasis, Status = record.Status };
                     if (validationResult.Passed)
                     {
-                        Position position = new Position() { RowNumber = record.RowNumber, PositionTitle = role.Trim(), PayBasis = record.PayBasis, Status = record.Status };
                         positions.Add(position);
                     }
                     else
                     {
+                        validationResult.Position = position;
+                        validationResult.Record = record;
                         validationResults.Add(validationResult);
                     }
                 }
@@ -36,13 +38,15 @@ public class TaskPosition
             else
             {
                 validationResult = ValidationHelpers.PositionTableValidation(roles[0], record.PayBasis, record.Status);
+                Position position = new Position() { RowNumber = record.RowNumber, PositionTitle = roles[0].Trim(), PayBasis = record.PayBasis, Status = record.Status };
                 if (validationResult.Passed)
-                {
-                    Position position = new Position() { RowNumber = record.RowNumber, PositionTitle = roles[0].Trim(), PayBasis = record.PayBasis, Status = record.Status };
+                {   
                     positions.Add(position);
                 }
                 else
                 {
+                    validationResult.Position = position;
+                    validationResult.Record = record;
                     validationResults.Add(validationResult);
                 }
             }

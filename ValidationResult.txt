@@ -1,0 +1,3547 @@
+Record: 
+	Year - 1997 
+	Name - Mclarty,Thomas F.,III 
+	Gender - Male 
+	Status - Employee 
+	Salary -  
+	Pay Basis - Per Annum 
+	Position Title - COUNSELOR TO THE PRESIDENT & SPECIAL ENVOY FOR THE AMERICAS
+Outcome: False
+Results: 
+	Missing Values: true
+	Validation Type: File
+
+Record: 
+	Year - 1998 
+	Name - Mclarty,Thomas F.,III 
+	Gender - Male 
+	Status - Employee 
+	Salary -  
+	Pay Basis - Per Annum 
+	Position Title - COUNSELOR TO THE PRESIDENT & SPECIAL ENVOY FOR THE AMERICAS
+Outcome: False
+Results: 
+	Missing Values: true
+	Validation Type: File
+
+Record: 
+	Year - 1999 
+	Name - Cutler,Lloyd N. 
+	Gender - Male 
+	Status - Employee 
+	Salary -  
+	Pay Basis - Per Annum 
+	Position Title - SENIOR WHITE HOUSE REPRESENTATIVE FOR PACIFIC SALMON
+Outcome: False
+Results: 
+	Missing Values: true
+	Validation Type: File
+
+Record: 
+	Year - 2001 
+	Name - Andres,Gary J. 
+	Gender - Male 
+	Status - Employee 
+	Salary -  
+	Pay Basis - Per Annum 
+	Position Title - SPECIAL GOVERNMENT EMPLOYEE
+Outcome: False
+Results: 
+	Missing Values: true
+	Validation Type: File
+
+Record: 
+	Year - 2002 
+	Name - Mcnulty,Timothy P. 
+	Gender - Male 
+	Status - Employee 
+	Salary -  
+	Pay Basis - Per Annum 
+	Position Title - CONSULTANT
+Outcome: False
+Results: 
+	Missing Values: true
+	Validation Type: File
+
+Record: 
+	Year - 2002 
+	Name - Reynolds,Timothy L. 
+	Gender - Male 
+	Status - Employee 
+	Salary -  
+	Pay Basis - Per Annum 
+	Position Title - STAFF ASSISTANT
+Outcome: False
+Results: 
+	Missing Values: true
+	Validation Type: File
+
+Record: 
+	Year - 2004 
+	Name - Baker,James A.,III 
+	Gender - Male 
+	Status - Employee 
+	Salary -  
+	Pay Basis - Per Annum 
+	Position Title - SPECIAL PRESIDENTIAL ENVOY ON IRAQI DEBT
+Outcome: False
+Results: 
+	Missing Values: true
+	Validation Type: File
+
+Record: 
+	Year - 2004 
+	Name -  
+	Gender -  
+	Status - Detailee 
+	Salary - 125972 
+	Pay Basis -  
+	Position Title - 
+Outcome: False
+Results: 
+	Missing Values: true
+	Validation Type: File
+
+Record: 
+	Year - 2004 
+	Name -  
+	Gender -  
+	Status - Detailee 
+	Salary - 118384 
+	Pay Basis -  
+	Position Title - 
+Outcome: False
+Results: 
+	Missing Values: true
+	Validation Type: File
+
+Record: 
+	Year - 2006 
+	Name -  
+	Gender -  
+	Status - Detailee 
+	Salary - 100547 
+	Pay Basis - Per Annum 
+	Position Title - DIRECTOR OF CONTINUITY OF OPERATIONS POLICY
+Outcome: False
+Results: 
+	Missing Values: true
+	Validation Type: File
+
+Record: 
+	Year - 2009 
+	Name - McGinnis,Patricia G. 
+	Gender - Female 
+	Status - Employee 
+	Salary -  
+	Pay Basis - Per Annum 
+	Position Title - ADVISOR
+Outcome: False
+Results: 
+	Missing Values: true
+	Validation Type: File
+
+Record: 
+	Year - 2009 
+	Name - Warren,Michael J. 
+	Gender - Male 
+	Status - Employee 
+	Salary -  
+	Pay Basis - Per Annum 
+	Position Title - SENIOR ADVISOR FOR ECONOMICS DIVISION OF PRESIDENTIAL PERSONNEL
+Outcome: False
+Results: 
+	Missing Values: true
+	Validation Type: File
+
+Record: 
+	Year - 2010 
+	Name - Chen,Margaret C. 
+	Gender - Female 
+	Status - Employee 
+	Salary -  
+	Pay Basis - Per Annum 
+	Position Title - SPECIAL ASSISTANT
+Outcome: False
+Results: 
+	Missing Values: true
+	Validation Type: File
+
+Record: 
+	Year - 2010 
+	Name - McGinnis,Patricia G. 
+	Gender - Female 
+	Status - Employee 
+	Salary -  
+	Pay Basis - Per Annum 
+	Position Title - ADVISOR
+Outcome: False
+Results: 
+	Missing Values: true
+	Validation Type: File
+
+Record: 
+	Year - 2010 
+	Name - Wong,Shale L. 
+	Gender - Male 
+	Status - Employee 
+	Salary -  
+	Pay Basis - Per Annum 
+	Position Title - POLICY ADVISOR
+Outcome: False
+Results: 
+	Missing Values: true
+	Validation Type: File
+
+Record: 
+	Year - 2011 
+	Name - McGinnis,Patricia G. 
+	Gender - Female 
+	Status - Employee 
+	Salary -  
+	Pay Basis - Per Annum 
+	Position Title - ADVISOR
+Outcome: False
+Results: 
+	Missing Values: true
+	Validation Type: File
+
+Record: 
+	Year - 2011 
+	Name - Schumer,Jessica E. 
+	Gender - Female 
+	Status - Employee 
+	Salary -  
+	Pay Basis - Per Annum 
+	Position Title - SENIOR POLICY ADVISOR
+Outcome: False
+Results: 
+	Missing Values: true
+	Validation Type: File
+
+Record: 
+	Year - 2011 
+	Name - Wong,Shale L. 
+	Gender - Male 
+	Status - Employee 
+	Salary -  
+	Pay Basis - Per Annum 
+	Position Title - POLICY ADVISOR
+Outcome: False
+Results: 
+	Missing Values: true
+	Validation Type: File
+
+Record: 
+	Year - 2012 
+	Name - Kaden,David M. 
+	Gender - Male 
+	Status - Employee 
+	Salary -  
+	Pay Basis - Per Annum 
+	Position Title - SENIOR POLICY ADVISOR
+Outcome: False
+Results: 
+	Missing Values: true
+	Validation Type: File
+
+Record: 
+	Year - 2012 
+	Name - Parker,Andrew M. 
+	Gender - Male 
+	Status - Employee 
+	Salary -  
+	Pay Basis - Per Annum 
+	Position Title - SPECIAL ASSISTANT
+Outcome: False
+Results: 
+	Missing Values: true
+	Validation Type: File
+
+Record: 
+	Year - 2013 
+	Name - Cohen,Elyse 
+	Gender - Female 
+	Status - Employee 
+	Salary -  
+	Pay Basis - Per Annum 
+	Position Title - DEPUTY DIRECTOR, LET'S MOVE!
+Outcome: False
+Results: 
+	Missing Values: true
+	Validation Type: File
+
+Record: 
+	Year - 2013 
+	Name - Kelly,Elizabeth A. 
+	Gender - Female 
+	Status - Employee 
+	Salary -  
+	Pay Basis - Per Annum 
+	Position Title - POLICY ADVISOR
+Outcome: False
+Results: 
+	Missing Values: true
+	Validation Type: File
+
+Record: 
+	Year - 2014 
+	Name - Cohen,Elyse 
+	Gender - Female 
+	Status - Employee 
+	Salary -  
+	Pay Basis - Per Annum 
+	Position Title - DEPUTY DIRECTOR, LET'S MOVE!
+Outcome: False
+Results: 
+	Missing Values: true
+	Validation Type: File
+
+Record: 
+	Year - 2014 
+	Name - Loewentheil,Nathaniel F. 
+	Gender - Male 
+	Status - Employee 
+	Salary -  
+	Pay Basis - Per Annum 
+	Position Title - POLICY ADVISOR
+Outcome: False
+Results: 
+	Missing Values: true
+	Validation Type: File
+
+Record: 
+	Year - 2015 
+	Name - Leary,Kimberlyn R. 
+	Gender - Female 
+	Status - Employee 
+	Salary -  
+	Pay Basis - Per Annum 
+	Position Title - ADVISOR TO THE COUNCIL ON WOMEN AND GIRLS
+Outcome: False
+Results: 
+	Missing Values: true
+	Validation Type: File
+
+Record: 
+	Year - 2015 
+	Name - Park,Todd Y. 
+	Gender - Male 
+	Status - Employee 
+	Salary -  
+	Pay Basis - Per Annum 
+	Position Title - ADVISOR FOR TECHNOLOGY
+Outcome: False
+Results: 
+	Missing Values: true
+	Validation Type: File
+
+Record: 
+	Year - 2016 
+	Name - Davies,Susan M. 
+	Gender - Female 
+	Status - Employee 
+	Salary -  
+	Pay Basis - Per Annum 
+	Position Title - CONSULTANT
+Outcome: False
+Results: 
+	Missing Values: true
+	Validation Type: File
+
+Record: 
+	Year - 2016 
+	Name - Oakar,Catherine R. 
+	Gender - Female 
+	Status - Employee 
+	Salary -  
+	Pay Basis - Per Annum 
+	Position Title - DEPUTY DIRECTOR, LET'S MOVE!
+Outcome: False
+Results: 
+	Missing Values: true
+	Validation Type: File
+
+Record: 
+	Year - 2016 
+	Name - Park,Todd Y. 
+	Gender - Male 
+	Status - Employee 
+	Salary -  
+	Pay Basis - Per Annum 
+	Position Title - ADVISOR FOR TECHNOLOGY
+Outcome: False
+Results: 
+	Missing Values: true
+	Validation Type: File
+
+Record: 
+	Year - 2017 
+	Name - Cordish,Reed S. 
+	Gender - Male 
+	Status - Employee 
+	Salary -  
+	Pay Basis - Per Annum 
+	Position Title - ASSISTANT TO THE PRESIDENT FOR INTERGOVERNMENTAL AND TECHNOLOGY INITIATIVES
+Outcome: False
+Results: 
+	Missing Values: true
+	Validation Type: File
+
+Record: 
+	Year - 2017 
+	Name - Kushner,Jared C. 
+	Gender - Male 
+	Status - Employee 
+	Salary -  
+	Pay Basis - Per Annum 
+	Position Title - ASSISTANT TO THE PRESIDENT AND SENIOR ADVISOR
+Outcome: False
+Results: 
+	Missing Values: true
+	Validation Type: File
+
+Record: 
+	Year - 2017 
+	Name - Trump,Ivanka M. 
+	Gender - Female 
+	Status - Employee 
+	Salary -  
+	Pay Basis - Per Annum 
+	Position Title - FIRST DAUGHTER AND ADVISOR TO THE PRESIDENT
+Outcome: False
+Results: 
+	Missing Values: true
+	Validation Type: File
+
+Record: 
+	Year - 2018 
+	Name - Kushner,Jared C. 
+	Gender - Male 
+	Status - Employee 
+	Salary -  
+	Pay Basis - Per Annum 
+	Position Title - ASSISTANT TO THE PRESIDENT AND SENIOR ADVISOR
+Outcome: False
+Results: 
+	Missing Values: true
+	Validation Type: File
+
+Record: 
+	Year - 2018 
+	Name - Trump,Ivanka M. 
+	Gender - Female 
+	Status - Employee 
+	Salary -  
+	Pay Basis - Per Annum 
+	Position Title - ADVISOR TO THE PRESIDENT
+Outcome: False
+Results: 
+	Missing Values: true
+	Validation Type: File
+
+Record: 
+	Year - 2019 
+	Name - Kushner,Jared C. 
+	Gender - Male 
+	Status - Employee 
+	Salary -  
+	Pay Basis - Per Annum 
+	Position Title - ASSISTANT TO THE PRESIDENT AND SENIOR ADVISOR
+Outcome: False
+Results: 
+	Missing Values: true
+	Validation Type: File
+
+Record: 
+	Year - 2019 
+	Name - Trump,Ivanka M. 
+	Gender - Female 
+	Status - Employee 
+	Salary -  
+	Pay Basis - Per Annum 
+	Position Title - ADVISOR TO THE PRESIDENT
+Outcome: False
+Results: 
+	Missing Values: true
+	Validation Type: File
+
+Record: 
+	Year - 2020 
+	Name - Coghlan,John V. 
+	Gender - Male 
+	Status - Detailee 
+	Salary -  
+	Pay Basis -  
+	Position Title - ASSOCIATE COUNSEL
+Outcome: False
+Results: 
+	Missing Values: true
+	Validation Type: File
+
+Record: 
+	Year - 2020 
+	Name - Eliot,Deirdre Z. 
+	Gender - Female 
+	Status - Detailee 
+	Salary -  
+	Pay Basis -  
+	Position Title - SENIOR ASSOCIATE COUNSEL
+Outcome: False
+Results: 
+	Missing Values: true
+	Validation Type: File
+
+Record: 
+	Year - 2020 
+	Name - Hemenway,John Troup C. 
+	Gender - Male 
+	Status - Detailee 
+	Salary -  
+	Pay Basis -  
+	Position Title - ADVISOR
+Outcome: False
+Results: 
+	Missing Values: true
+	Validation Type: File
+
+Record: 
+	Year - 2020 
+	Name - Kelly,Marcia L. 
+	Gender - Female 
+	Status - Employee 
+	Salary -  
+	Pay Basis - Per Annum 
+	Position Title - SENIOR ADVISOR TO THE FIRST LADY
+Outcome: False
+Results: 
+	Missing Values: true
+	Validation Type: File
+
+Record: 
+	Year - 2020 
+	Name - Kushner,Jared C. 
+	Gender - Male 
+	Status - Employee 
+	Salary -  
+	Pay Basis - Per Annum 
+	Position Title - ASSISTANT TO THE PRESIDENT AND SENIOR ADVISOR
+Outcome: False
+Results: 
+	Missing Values: true
+	Validation Type: File
+
+Record: 
+	Year - 2020 
+	Name - Lytle,Mark D. 
+	Gender - Male 
+	Status - Detailee 
+	Salary -  
+	Pay Basis -  
+	Position Title - ASSOCIATE COUNSEL
+Outcome: False
+Results: 
+	Missing Values: true
+	Validation Type: File
+
+Record: 
+	Year - 2020 
+	Name - Ornato,Anthony M. 
+	Gender - Male 
+	Status - Detailee 
+	Salary -  
+	Pay Basis -  
+	Position Title - ASSISTANT TO THE PRESIDENT AND DEPUTY CHIEF OF STAFF FOR OPERATIONS
+Outcome: False
+Results: 
+	Missing Values: true
+	Validation Type: File
+
+Record: 
+	Year - 2020 
+	Name - Trump,Ivanka M. 
+	Gender - Female 
+	Status - Employee 
+	Salary -  
+	Pay Basis - Per Annum 
+	Position Title - ADVISOR TO THE PRESIDENT
+Outcome: False
+Results: 
+	Missing Values: true
+	Validation Type: File
+
+Record: 
+	Year - 2020 
+	Name - White,Paula M. 
+	Gender - Female 
+	Status - Employee 
+	Salary -  
+	Pay Basis - Per Annum 
+	Position Title - ADVISOR TO THE WHITE HOUSE FAITH AND OPPORTUNITY INITIATIVE
+Outcome: False
+Results: 
+	Missing Values: true
+	Validation Type: File
+
+Record: 
+	Year - 2009 
+	Name - Camuñez,Michael C. 
+	Gender - Male 
+	Status - Employee 
+	Salary - 129000 
+	Pay Basis - Per Annum 
+	Position Title - SPECIAL ASSISTANT TO THE PRESIDENT FOR PRESIDENTIAL PERSONNEL
+Employee: 
+	First Name - Michael  
+	Middle Initial - C 
+	Last Name - Camuñez 
+	Gender - Male 
+Outcome: False
+Results: 
+	Validation Type: Employee
+
+Record: 
+	Year - 2009 
+	Name - Cuéllar,Mariano-Florentino 
+	Gender - Male 
+	Status - Employee 
+	Salary - 98000 
+	Pay Basis - Per Annum 
+	Position Title - SPECIAL ASSISTANT TO THE PRESIDENT FOR JUSTICE AND REGULATORY POLICY
+Employee: 
+	First Name - Mariano-Florentino 
+	Middle Initial -  
+	Last Name - Cuéllar 
+	Gender - Male 
+Outcome: False
+Results: 
+	Validation Type: Employee
+
+Record: 
+	Year - 2009 
+	Name - Muñoz,Cecilia 
+	Gender - Female 
+	Status - Employee 
+	Salary - 153500 
+	Pay Basis - Per Annum 
+	Position Title - DEPUTY ASSISTANT TO THE PRESIDENT AND DIRECTOR OF INTERGOVERNMENTAL AFFAIRS
+Employee: 
+	First Name - Cecilia 
+	Middle Initial -  
+	Last Name - Muñoz 
+	Gender - Female 
+Outcome: False
+Results: 
+	Validation Type: Employee
+
+Record: 
+	Year - 2009 
+	Name - Pérez,Alejandro 
+	Gender - Male 
+	Status - Employee 
+	Salary - 130500 
+	Pay Basis - Per Annum 
+	Position Title - SPECIAL ASSISTANT TO THE PRESIDENT FOR LEGISLATIVE AFFAIRS
+Employee: 
+	First Name - Alejandro 
+	Middle Initial -  
+	Last Name - Pérez 
+	Gender - Male 
+Outcome: False
+Results: 
+	Validation Type: Employee
+
+Record: 
+	Year - 2010 
+	Name - Camuñez,Michael C. 
+	Gender - Male 
+	Status - Employee 
+	Salary - 140000 
+	Pay Basis - Per Annum 
+	Position Title - SPECIAL ASSISTANT TO THE PRESIDENT AND SPECIAL COUNSEL TO THE PRESIDENT
+Employee: 
+	First Name - Michael  
+	Middle Initial - C 
+	Last Name - Camuñez 
+	Gender - Male 
+Outcome: False
+Results: 
+	Validation Type: Employee
+
+Record: 
+	Year - 2010 
+	Name - Muñoz,Cecilia 
+	Gender - Female 
+	Status - Employee 
+	Salary - 153500 
+	Pay Basis - Per Annum 
+	Position Title - DEPUTY ASSISTANT TO THE PRESIDENT AND DIRECTOR OF INTERGOVERNMENTAL AFFAIRS
+Employee: 
+	First Name - Cecilia 
+	Middle Initial -  
+	Last Name - Muñoz 
+	Gender - Female 
+Outcome: False
+Results: 
+	Validation Type: Employee
+
+Record: 
+	Year - 2010 
+	Name - Pérez,Alejandro 
+	Gender - Male 
+	Status - Employee 
+	Salary - 130500 
+	Pay Basis - Per Annum 
+	Position Title - SPECIAL ASSISTANT TO THE PRESIDENT FOR LEGISLATIVE AFFAIRS
+Employee: 
+	First Name - Alejandro 
+	Middle Initial -  
+	Last Name - Pérez 
+	Gender - Male 
+Outcome: False
+Results: 
+	Validation Type: Employee
+
+Record: 
+	Year - 2011 
+	Name - Muñoz,Cecilia 
+	Gender - Female 
+	Status - Employee 
+	Salary - 153500 
+	Pay Basis - Per Annum 
+	Position Title - DEPUTY ASSISTANT TO THE PRESIDENT AND DIRECTOR OF INTERGOVERNMENTAL AFFAIRS
+Employee: 
+	First Name - Cecilia 
+	Middle Initial -  
+	Last Name - Muñoz 
+	Gender - Female 
+Outcome: False
+Results: 
+	Validation Type: Employee
+
+Record: 
+	Year - 2011 
+	Name - Pérez,Alejandro 
+	Gender - Male 
+	Status - Employee 
+	Salary - 130500 
+	Pay Basis - Per Annum 
+	Position Title - SPECIAL ASSISTANT TO THE PRESIDENT FOR LEGISLATIVE AFFAIRS
+Employee: 
+	First Name - Alejandro 
+	Middle Initial -  
+	Last Name - Pérez 
+	Gender - Male 
+Outcome: False
+Results: 
+	Validation Type: Employee
+
+Record: 
+	Year - 2012 
+	Name - Muñoz,Cecilia 
+	Gender - Female 
+	Status - Employee 
+	Salary - 172200 
+	Pay Basis - Per Annum 
+	Position Title - ASSISTANT TO THE PRESIDENT AND DIRECTOR OF THE DOMESTIC POLICY COUNCIL
+Employee: 
+	First Name - Cecilia 
+	Middle Initial -  
+	Last Name - Muñoz 
+	Gender - Female 
+Outcome: False
+Results: 
+	Validation Type: Employee
+
+Record: 
+	Year - 2012 
+	Name - Pérez,Alejandro 
+	Gender - Male 
+	Status - Employee 
+	Salary - 130500 
+	Pay Basis - Per Annum 
+	Position Title - SPECIAL ASSISTANT TO THE PRESIDENT FOR LEGISLATIVE AFFAIRS
+Employee: 
+	First Name - Alejandro 
+	Middle Initial -  
+	Last Name - Pérez 
+	Gender - Male 
+Outcome: False
+Results: 
+	Validation Type: Employee
+
+Record: 
+	Year - 2013 
+	Name - Muñoz,Cecilia 
+	Gender - Female 
+	Status - Employee 
+	Salary - 172200 
+	Pay Basis - Per Annum 
+	Position Title - ASSISTANT TO THE PRESIDENT AND DIRECTOR OF THE DOMESTIC POLICY COUNCIL
+Employee: 
+	First Name - Cecilia 
+	Middle Initial -  
+	Last Name - Muñoz 
+	Gender - Female 
+Outcome: False
+Results: 
+	Validation Type: Employee
+
+Record: 
+	Year - 2013 
+	Name - Pérez,Alejandro 
+	Gender - Male 
+	Status - Employee 
+	Salary - 130500 
+	Pay Basis - Per Annum 
+	Position Title - SPECIAL ASSISTANT TO THE PRESIDENT FOR LEGISLATIVE AFFAIRS
+Employee: 
+	First Name - Alejandro 
+	Middle Initial -  
+	Last Name - Pérez 
+	Gender - Male 
+Outcome: False
+Results: 
+	Validation Type: Employee
+
+Record: 
+	Year - 2014 
+	Name - Muñoz,Cecilia 
+	Gender - Female 
+	Status - Employee 
+	Salary - 172200 
+	Pay Basis - Per Annum 
+	Position Title - ASSISTANT TO THE PRESIDENT AND DIRECTOR OF THE DOMESTIC POLICY COUNCIL
+Employee: 
+	First Name - Cecilia 
+	Middle Initial -  
+	Last Name - Muñoz 
+	Gender - Female 
+Outcome: False
+Results: 
+	Validation Type: Employee
+
+Record: 
+	Year - 2014 
+	Name - Pagán Motta,Tomás A. 
+	Gender - Male 
+	Status - Employee 
+	Salary - 63000 
+	Pay Basis - Per Annum 
+	Position Title - STENOGRAPHER
+Employee: 
+	First Name - Tomás  
+	Middle Initial - A 
+	Last Name - Pagán Motta 
+	Gender - Male 
+Outcome: False
+Results: 
+	Validation Type: Employee
+
+Record: 
+	Year - 2014 
+	Name - Pérez,Alejandro 
+	Gender - Male 
+	Status - Employee 
+	Salary - 130500 
+	Pay Basis - Per Annum 
+	Position Title - SPECIAL ASSISTANT TO THE PRESIDENT FOR LEGISLATIVE AFFAIRS
+Employee: 
+	First Name - Alejandro 
+	Middle Initial -  
+	Last Name - Pérez 
+	Gender - Male 
+Outcome: False
+Results: 
+	Validation Type: Employee
+
+Record: 
+	Year - 2015 
+	Name - Magaña,Genevieve 
+	Gender - Female 
+	Status - Employee 
+	Salary - 65000 
+	Pay Basis - Per Annum 
+	Position Title - ASSOCIATE DIRECTOR OF PUBLIC ENGAGEMENT
+Employee: 
+	First Name - Genevieve 
+	Middle Initial -  
+	Last Name - Magaña 
+	Gender - Female 
+Outcome: False
+Results: 
+	Validation Type: Employee
+
+Record: 
+	Year - 2015 
+	Name - Muñoz,Cecilia 
+	Gender - Female 
+	Status - Employee 
+	Salary - 173922 
+	Pay Basis - Per Annum 
+	Position Title - ASSISTANT TO THE PRESIDENT AND DIRECTOR OF THE DOMESTIC POLICY COUNCIL
+Employee: 
+	First Name - Cecilia 
+	Middle Initial -  
+	Last Name - Muñoz 
+	Gender - Female 
+Outcome: False
+Results: 
+	Validation Type: Employee
+
+Record: 
+	Year - 2015 
+	Name - Pérez,Alejandro 
+	Gender - Male 
+	Status - Employee 
+	Salary - 160085 
+	Pay Basis - Per Annum 
+	Position Title - DEPUTY ASSISTANT TO THE PRESIDENT FOR LEGISLATIVE AFFAIRS AND HOUSE LIAISON
+Employee: 
+	First Name - Alejandro 
+	Middle Initial -  
+	Last Name - Pérez 
+	Gender - Male 
+Outcome: False
+Results: 
+	Validation Type: Employee
+
+Record: 
+	Year - 2016 
+	Name - Magaña,Genevieve 
+	Gender - Female 
+	Status - Employee 
+	Salary - 65949 
+	Pay Basis - Per Annum 
+	Position Title - ASSOCIATE DIRECTOR OF PUBLIC ENGAGEMENT
+Employee: 
+	First Name - Genevieve 
+	Middle Initial -  
+	Last Name - Magaña 
+	Gender - Female 
+Outcome: False
+Results: 
+	Validation Type: Employee
+
+Record: 
+	Year - 2016 
+	Name - Muñoz,Cecilia 
+	Gender - Female 
+	Status - Employee 
+	Salary - 176461 
+	Pay Basis - Per Annum 
+	Position Title - ASSISTANT TO THE PRESIDENT AND DIRECTOR OF THE DOMESTIC POLICY COUNCIL
+Employee: 
+	First Name - Cecilia 
+	Middle Initial -  
+	Last Name - Muñoz 
+	Gender - Female 
+Outcome: False
+Results: 
+	Validation Type: Employee
+
+Record: 
+	Year - 2016 
+	Name - Pérez,Alejandro 
+	Gender - Male 
+	Status - Employee 
+	Salary - 162422 
+	Pay Basis - Per Annum 
+	Position Title - DEPUTY ASSISTANT TO THE PRESIDENT FOR LEGISLATIVE AFFAIRS AND HOUSE LIAISON
+Employee: 
+	First Name - Alejandro 
+	Middle Initial -  
+	Last Name - Pérez 
+	Gender - Male 
+Outcome: False
+Results: 
+	Validation Type: Employee
+
+Record: 
+	Year - 2017 
+	Name - Blasé,Brian C. 
+	Gender - Male 
+	Status - Employee 
+	Salary - 115000 
+	Pay Basis - Per Annum 
+	Position Title - SPECIAL ASSISTANT TO THE PRESIDENT FOR ECONOMIC POLICY
+Employee: 
+	First Name - Brian  
+	Middle Initial - C 
+	Last Name - Blasé 
+	Gender - Male 
+Outcome: False
+Results: 
+	Validation Type: Employee
+
+Record: 
+	Year - 2018 
+	Name - Blasé,Brian C. 
+	Gender - Male 
+	Status - Employee 
+	Salary - 140000 
+	Pay Basis - Per Annum 
+	Position Title - SPECIAL ASSISTANT TO THE PRESIDENT FOR ECONOMIC POLICY
+Employee: 
+	First Name - Brian  
+	Middle Initial - C 
+	Last Name - Blasé 
+	Gender - Male 
+Outcome: False
+Results: 
+	Validation Type: Employee
+
+Record: 
+	Year - 2019 
+	Name - Blasé,Brian C. 
+	Gender - Male 
+	Status - Employee 
+	Salary - 145000 
+	Pay Basis - Per Annum 
+	Position Title - SPECIAL ASSISTANT TO THE PRESIDENT FOR ECONOMIC POLICY
+Employee: 
+	First Name - Brian  
+	Middle Initial - C 
+	Last Name - Blasé 
+	Gender - Male 
+Outcome: False
+Results: 
+	Validation Type: Employee
+
+Record: 
+	Year - 2020 
+	Name - Otaño,Joy E. 
+	Gender - Female 
+	Status - Employee 
+	Salary - 135000 
+	Pay Basis - Per Annum 
+	Position Title - SPECIAL ASSISTANT TO THE PRESIDENT AND DIRECTOR OF WHITE HOUSE PERSONNEL
+Employee: 
+	First Name - Joy  
+	Middle Initial - E 
+	Last Name - Otaño 
+	Gender - Female 
+Outcome: False
+Results: 
+	Validation Type: Employee
+
+Record: 
+	Year - 1997 
+	Name - Steinberg,James Braidy 
+	Gender - Male 
+	Status - Employee 
+	Salary - 110000 
+	Pay Basis - Per Annum 
+	Position Title - DEPUTY NATIONAL SECURITY ADVISOR & DEPUTY ASSISTANT TO THE PRESIDENT FOR NATIONAL SECURITY AGENCY
+Position: 
+	Position Title - DEPUTY NATIONAL SECURITY ADVISOR AND DEPUTY ASSISTANT TO THE PRESIDENT FOR NATIONAL SECURITY AGENCY 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 1998 
+	Name - Sharp,Michael A. 
+	Gender - Male 
+	Status - Employee 
+	Salary - 41701 
+	Pay Basis - Per Annum 
+	Position Title - NIGHT STAFF SUPERVISOR AND DIRECTOR OF SPECIAL PROJECTS
+Position: 
+	Position Title - NIGHT STAFF SUPERVISOR AND DIRECTOR OF SPECIAL PROJECTS 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 1998 
+	Name - Steinberg,James Braidy 
+	Gender - Male 
+	Status - Employee 
+	Salary - 110000 
+	Pay Basis - Per Annum 
+	Position Title - DEPUTY NATIONAL SECURITY ADVISOR & DEPUTY ASSISTANT TO THE PRESIDENT FOR NATIONAL SECURITY AGENCY
+Position: 
+	Position Title - DEPUTY NATIONAL SECURITY ADVISOR AND DEPUTY ASSISTANT TO THE PRESIDENT FOR NATIONAL SECURITY AGENCY 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 1999 
+	Name - Sharp,Michael A. 
+	Gender - Male 
+	Status - Employee 
+	Salary - 44467 
+	Pay Basis - Per Annum 
+	Position Title - NIGHT STAFF SUPERVISOR AND DIRECTOR OF SPECIAL PROJECTS
+Position: 
+	Position Title - NIGHT STAFF SUPERVISOR AND DIRECTOR OF SPECIAL PROJECTS 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 1999 
+	Name - Steinberg,James Braidy 
+	Gender - Male 
+	Status - Employee 
+	Salary - 110000 
+	Pay Basis - Per Annum 
+	Position Title - DEPUTY NATIONAL SECURITY ADVISOR & DEPUTY ASSISTANT TO THE PRESIDENT FOR NATIONAL SECURITY AGENCY
+Position: 
+	Position Title - DEPUTY NATIONAL SECURITY ADVISOR AND DEPUTY ASSISTANT TO THE PRESIDENT FOR NATIONAL SECURITY AGENCY 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 1999 
+	Name - Washington,Essence 
+	Gender - Female 
+	Status - Employee 
+	Salary - 30000 
+	Pay Basis - Per Annum 
+	Position Title - POLICY ASSISTANT AND SUPPLY & INTERN COORDINATOR, OFFICE OF POLICY DEVELOPMENT
+Position: 
+	Position Title - POLICY ASSISTANT AND SUPPLY AND INTERN COORDINATOR, OFFICE OF POLICY DEVELOPMENT 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2000 
+	Name - Olds,Edward L.,Jr. 
+	Gender - Male 
+	Status - Employee 
+	Salary - 40000 
+	Pay Basis - Per Annum 
+	Position Title - SPECIAL ASSISTANT & PROCUREMENT MANAGER FOR WHITE HOUSE OPERATIONS
+Position: 
+	Position Title - SPECIAL ASSISTANT AND PROCUREMENT MANAGER FOR WHITE HOUSE OPERATIONS 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2000 
+	Name - Sharp,Michael A. 
+	Gender - Male 
+	Status - Employee 
+	Salary - 46665 
+	Pay Basis - Per Annum 
+	Position Title - NIGHT STAFF SUPERVISOR AND DIRECTOR OF SPECIAL PROJECTS
+Position: 
+	Position Title - NIGHT STAFF SUPERVISOR AND DIRECTOR OF SPECIAL PROJECTS 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2000 
+	Name - Steinberg,James Braidy 
+	Gender - Male 
+	Status - Employee 
+	Salary - 110000 
+	Pay Basis - Per Annum 
+	Position Title - DEPUTY NATIONAL SECURITY ADVISOR & DEPUTY ASSISTANT TO THE PRESIDENT FOR NATIONAL SECURITY AGENCY
+Position: 
+	Position Title - DEPUTY NATIONAL SECURITY ADVISOR AND DEPUTY ASSISTANT TO THE PRESIDENT FOR NATIONAL SECURITY AGENCY 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2000 
+	Name - Valentine,Victoria L. 
+	Gender - Female 
+	Status - Employee 
+	Salary - 45500 
+	Pay Basis - Per Annum 
+	Position Title - ASSISTANT PRESS SECRETARY AND DIRECTOR OF SPECIALTY PRESS
+Position: 
+	Position Title - ASSISTANT PRESS SECRETARY AND DIRECTOR OF SPECIALTY PRESS 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2000 
+	Name - Waller,Margy A. 
+	Gender - Female 
+	Status - Employee 
+	Salary - 73000 
+	Pay Basis - Per Annum 
+	Position Title - ASSOCIATE DIRECTOR & ADVISOR FOR WELFARE & WORKING FAMILIES, OFFICE OF POLICY DEVELOPMENT
+Position: 
+	Position Title - ASSOCIATE DIRECTOR AND ADVISOR FOR WELFARE AND WORKING FAMILIES, OFFICE OF POLICY DEVELOPMENT 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2000 
+	Name - Woodard,Eric W. 
+	Gender - Male 
+	Status - Employee 
+	Salary - 35000 
+	Pay Basis - Per Annum 
+	Position Title - OFFICE MANAGER AND ASSISTANT TO THE CHIEF OF STAFF
+Position: 
+	Position Title - OFFICE MANAGER AND ASSISTANT TO THE CHIEF OF STAFF 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2001 
+	Name - Sharp,Michael A. 
+	Gender - Male 
+	Status - Employee 
+	Salary - 48443 
+	Pay Basis - Per Annum 
+	Position Title - NIGHT STAFF SUPERVISOR AND DIRECTOR OF SPECIAL PROJECTS
+Position: 
+	Position Title - NIGHT STAFF SUPERVISOR AND DIRECTOR OF SPECIAL PROJECTS 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2002 
+	Name - Christie,Ronald I. 
+	Gender - Male 
+	Status - Employee 
+	Salary - 90000 
+	Pay Basis - Per Annum 
+	Position Title - SAP & DIRECTOR OF POLICY INITIATIVES & GOVERNMEMTAL AFFAIRS
+Position: 
+	Position Title - SAP AND DIRECTOR OF POLICY INITIATIVES AND GOVERNMEMTAL AFFAIRS 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2002 
+	Name - Gross,Taylor S. 
+	Gender - Female 
+	Status - Employee 
+	Salary - 45000 
+	Pay Basis - Per Annum 
+	Position Title - SPOKESMAN AND DIRECTOR OF RADIO
+Position: 
+	Position Title - SPOKESMAN AND DIRECTOR OF RADIO 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2002 
+	Name - Olson,Tiffany R. 
+	Gender - Female 
+	Status - Detailee 
+	Salary - 55000 
+	Pay Basis - Per Annum 
+	Position Title - DEPUTY EXECUTIVE SECRETARY & DEPUTY CHIEF OF STAFF
+Position: 
+	Position Title - DEPUTY EXECUTIVE SECRETARY AND DEPUTY CHIEF OF STAFF 
+	Pay Basis - Per Annum 
+	Status - Detailee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2003 
+	Name - Gross,Taylor S. 
+	Gender - Female 
+	Status - Employee 
+	Salary - 55000 
+	Pay Basis - Per Annum 
+	Position Title - SPOKESMAN AND DIRECTOR OF RADIO
+Position: 
+	Position Title - SPOKESMAN AND DIRECTOR OF RADIO 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2003 
+	Name - Lineweaver,Lindsey M. 
+	Gender - Female 
+	Status - Employee 
+	Salary - 40000 
+	Pay Basis - Per Annum 
+	Position Title - SPECIAL ASSISTANT AND PERSONAL AIDE TO THE FIRST LADY
+Position: 
+	Position Title - SPECIAL ASSISTANT AND PERSONAL AIDE TO THE FIRST LADY 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2004 
+	Name - Lineweaver,Lindsey M. 
+	Gender - Female 
+	Status - Employee 
+	Salary - 43800 
+	Pay Basis - Per Annum 
+	Position Title - SPECIAL ASSISTANT AND PERSONAL AIDE TO THE FIRST LADY
+Position: 
+	Position Title - SPECIAL ASSISTANT AND PERSONAL AIDE TO THE FIRST LADY 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2005 
+	Name - Lineweaver,Lindsey M. 
+	Gender - Female 
+	Status - Employee 
+	Salary - 44800 
+	Pay Basis - Per Annum 
+	Position Title - SPECIAL ASSISTANT AND PERSONAL AIDE TO THE FIRST LADY
+Position: 
+	Position Title - SPECIAL ASSISTANT AND PERSONAL AIDE TO THE FIRST LADY 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2006 
+	Name - Lineweaver,Lindsey M. 
+	Gender - Female 
+	Status - Employee 
+	Salary - 46300 
+	Pay Basis - Per Annum 
+	Position Title - SPECIAL ASSISANT AND PERSONAL AIDE TO THE FIRST LADY
+Position: 
+	Position Title - SPECIAL ASSISANT AND PERSONAL AIDE TO THE FIRST LADY 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2007 
+	Name - Lineweaver,Lindsey M. 
+	Gender - Female 
+	Status - Employee 
+	Salary - 47500 
+	Pay Basis - Per Annum 
+	Position Title - SPECIAL ASSISTANT AND PERSONAL AIDE TO THE FIRST LADY
+Position: 
+	Position Title - SPECIAL ASSISTANT AND PERSONAL AIDE TO THE FIRST LADY 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2008 
+	Name - Jenkins,Laura M. 
+	Gender - Female 
+	Status - Employee 
+	Salary - 57500 
+	Pay Basis - Per Annum 
+	Position Title - EXECUTIVE ASSISTANT AND DIRECTOR, OFFICE OF STRATEGIC INITIATIVES AND EXTERNAL AFFAIRS
+Position: 
+	Position Title - EXECUTIVE ASSISTANT AND DIRECTOR, OFFICE OF STRATEGIC INITIATIVES AND EXTERNAL AFFAIRS 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2008 
+	Name - Knutson,Lindsey L. 
+	Gender - Female 
+	Status - Employee 
+	Salary - 62700 
+	Pay Basis - Per Annum 
+	Position Title - SPECIAL ASSISTANT AND PERSONAL AIDE TO THE FIRST LADY
+Position: 
+	Position Title - SPECIAL ASSISTANT AND PERSONAL AIDE TO THE FIRST LADY 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2008 
+	Name - Witcher,Eryn M. 
+	Gender - Female 
+	Status - Employee 
+	Salary - 100300 
+	Pay Basis - Per Annum 
+	Position Title - ASSISTANT PRESS SECRETARY AND DIRECTOR OF TELEVISION
+Position: 
+	Position Title - ASSISTANT PRESS SECRETARY AND DIRECTOR OF TELEVISION 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2009 
+	Name - Abraham,Yohannes A. 
+	Gender - Male 
+	Status - Employee 
+	Salary - 40000 
+	Pay Basis - Per Annum 
+	Position Title - LEGISLATIVE ASSISTANT AND ASSISTANT TO THE HOUSE LIAISON
+Position: 
+	Position Title - LEGISLATIVE ASSISTANT AND ASSISTANT TO THE HOUSE LIAISON 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2009 
+	Name - Belive,Lauren E. 
+	Gender - Female 
+	Status - Employee 
+	Salary - 40000 
+	Pay Basis - Per Annum 
+	Position Title - LEGISLATIVE ASSISTANT AND ASSISTANT FOR EVENTS
+Position: 
+	Position Title - LEGISLATIVE ASSISTANT AND ASSISTANT FOR EVENTS 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2009 
+	Name - Garcia,Kristin M. 
+	Gender - Female 
+	Status - Employee 
+	Salary - 40000 
+	Pay Basis - Per Annum 
+	Position Title - LEGISLATIVE ASSISTANT AND ASSISTANT TO THE SENATE LIAISON
+Position: 
+	Position Title - LEGISLATIVE ASSISTANT AND ASSISTANT TO THE SENATE LIAISON 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2009 
+	Name - Jarrett,Valerie B. 
+	Gender - Female 
+	Status - Employee 
+	Salary - 172200 
+	Pay Basis - Per Annum 
+	Position Title - SENIOR ADVISOR AND ASSISTANT TO THE PRESIDENT FOR INTERGOVERNMENTAL AFFAIRS AND PUBLIC ENGAGEMENT
+Position: 
+	Position Title - SENIOR ADVISOR AND ASSISTANT TO THE PRESIDENT FOR INTERGOVERNMENTAL AFFAIRS AND PUBLIC ENGAGEMENT 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2009 
+	Name - Lelyveld,Catherine M. 
+	Gender - Female 
+	Status - Employee 
+	Salary - 84000 
+	Pay Basis - Per Annum 
+	Position Title - DIRECTOR AND PRESS SECRETARY TO THE FIRST LADY
+Position: 
+	Position Title - DIRECTOR AND PRESS SECRETARY TO THE FIRST LADY 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2009 
+	Name - Lewis,Dana M. 
+	Gender - Female 
+	Status - Employee 
+	Salary - 60000 
+	Pay Basis - Per Annum 
+	Position Title - SPECIAL ASSISTANT AND PERSONAL AIDE TO THE FIRST LADY
+Position: 
+	Position Title - SPECIAL ASSISTANT AND PERSONAL AIDE TO THE FIRST LADY 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2009 
+	Name - London,Seth A. 
+	Gender - Male 
+	Status - Employee 
+	Salary - 38000 
+	Pay Basis - Per Annum 
+	Position Title - LEGISLATIVE ASSISTANT AND ASSOCIATE DIRECTOR FOR LEGISLATIVE CORRESPONDENCE
+Position: 
+	Position Title - LEGISLATIVE ASSISTANT AND ASSOCIATE DIRECTOR FOR LEGISLATIVE CORRESPONDENCE 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2009 
+	Name - Mustaphi,Semonti M. 
+	Gender - Female 
+	Status - Employee 
+	Salary - 52500 
+	Pay Basis - Per Annum 
+	Position Title - ASSOCIATE DIRECTOR AND DEPUTY PRESS SECRETARY TO THE FIRST LADY
+Position: 
+	Position Title - ASSOCIATE DIRECTOR AND DEPUTY PRESS SECRETARY TO THE FIRST LADY 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2009 
+	Name - Ortiz,Michael R. 
+	Gender - Male 
+	Status - Employee 
+	Salary - 40000 
+	Pay Basis - Per Annum 
+	Position Title - LEGISLATIVE ASSISTANT AND ASSISTANT TO THE DIRECTOR'S OFFICE
+Position: 
+	Position Title - LEGISLATIVE ASSISTANT AND ASSISTANT TO THE DIRECTOR'S OFFICE 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2009 
+	Name - Simas,David M. 
+	Gender - Male 
+	Status - Employee 
+	Salary - 80000 
+	Pay Basis - Per Annum 
+	Position Title - DIRECTOR AND AIDE TO THE SENIOR ADVISOR
+Position: 
+	Position Title - DIRECTOR AND AIDE TO THE SENIOR ADVISOR 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2010 
+	Name - Belive,Lauren E. 
+	Gender - Female 
+	Status - Employee 
+	Salary - 45000 
+	Pay Basis - Per Annum 
+	Position Title - LEGISLATIVE ASSISTANT AND ASSISTANT FOR EVENTS
+Position: 
+	Position Title - LEGISLATIVE ASSISTANT AND ASSISTANT FOR EVENTS 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2010 
+	Name - Garcia,Kristin M. 
+	Gender - Female 
+	Status - Employee 
+	Salary - 45000 
+	Pay Basis - Per Annum 
+	Position Title - LEGISLATIVE ASSISTANT AND ASSISTANT TO THE SENATE LIAISON
+Position: 
+	Position Title - LEGISLATIVE ASSISTANT AND ASSISTANT TO THE SENATE LIAISON 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2010 
+	Name - Harris,Kevin R. 
+	Gender - Male 
+	Status - Employee 
+	Salary - 42000 
+	Pay Basis - Per Annum 
+	Position Title - LEGISLATIVE ASSISTANT AND ASSISTANT TO THE HOUSE LIAISON
+Position: 
+	Position Title - LEGISLATIVE ASSISTANT AND ASSISTANT TO THE HOUSE LIAISON 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2010 
+	Name - Jarrett,Valerie B. 
+	Gender - Female 
+	Status - Employee 
+	Salary - 172200 
+	Pay Basis - Per Annum 
+	Position Title - SENIOR ADVISOR AND ASSISTANT TO THE PRESIDENT FOR INTERGOVERNMENTAL AFFAIRS AND PUBLIC ENGAGEMENT
+Position: 
+	Position Title - SENIOR ADVISOR AND ASSISTANT TO THE PRESIDENT FOR INTERGOVERNMENTAL AFFAIRS AND PUBLIC ENGAGEMENT 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2010 
+	Name - Lelyveld,Catherine M. 
+	Gender - Female 
+	Status - Employee 
+	Salary - 85680 
+	Pay Basis - Per Annum 
+	Position Title - DIRECTOR AND PRESS SECRETARY TO THE FIRST LADY
+Position: 
+	Position Title - DIRECTOR AND PRESS SECRETARY TO THE FIRST LADY 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2010 
+	Name - Lewis,Dana M. 
+	Gender - Female 
+	Status - Employee 
+	Salary - 66000 
+	Pay Basis - Per Annum 
+	Position Title - SPECIAL ASSISTANT AND PERSONAL AIDE TO THE FIRST LADY
+Position: 
+	Position Title - SPECIAL ASSISTANT AND PERSONAL AIDE TO THE FIRST LADY 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2010 
+	Name - London,Seth A. 
+	Gender - Male 
+	Status - Employee 
+	Salary - 45000 
+	Pay Basis - Per Annum 
+	Position Title - LEGISLATIVE ASSISTANT AND ASSOCIATE DIRECTOR FOR LEGISLATIVE CORRESPONDENCE
+Position: 
+	Position Title - LEGISLATIVE ASSISTANT AND ASSOCIATE DIRECTOR FOR LEGISLATIVE CORRESPONDENCE 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2010 
+	Name - Ortiz,Michael R. 
+	Gender - Male 
+	Status - Employee 
+	Salary - 45000 
+	Pay Basis - Per Annum 
+	Position Title - LEGISLATIVE ASSISTANT AND ASSISTANT TO THE DIRECTOR'S OFFICE
+Position: 
+	Position Title - LEGISLATIVE ASSISTANT AND ASSISTANT TO THE DIRECTOR'S OFFICE 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2010 
+	Name - Stephens,Semonti M. 
+	Gender - Female 
+	Status - Employee 
+	Salary - 53550 
+	Pay Basis - Per Annum 
+	Position Title - ASSOCIATE DIRECTOR AND DEPUTY PRESS SECRETARY TO THE FIRST LADY
+Position: 
+	Position Title - ASSOCIATE DIRECTOR AND DEPUTY PRESS SECRETARY TO THE FIRST LADY 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2011 
+	Name - Asen,Jonathan D. 
+	Gender - Male 
+	Status - Employee 
+	Salary - 45000 
+	Pay Basis - Per Annum 
+	Position Title - LEGISLATIVE ASSISTANT AND ASSOCIATE DIRECTOR FOR LEGISLATIVE CORRESPONDENCE
+Position: 
+	Position Title - LEGISLATIVE ASSISTANT AND ASSOCIATE DIRECTOR FOR LEGISLATIVE CORRESPONDENCE 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2011 
+	Name - Belive,Lauren E. 
+	Gender - Female 
+	Status - Employee 
+	Salary - 45000 
+	Pay Basis - Per Annum 
+	Position Title - LEGISLATIVE ASSISTANT AND ASSISTANT FOR EVENTS
+Position: 
+	Position Title - LEGISLATIVE ASSISTANT AND ASSISTANT FOR EVENTS 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2011 
+	Name - Eckhouse,Sara F. 
+	Gender - Female 
+	Status - Employee 
+	Salary - 45000 
+	Pay Basis - Per Annum 
+	Position Title - LEGISLATIVE ASSISTANT AND ASSISTANT TO THE SENATE LIAISON
+Position: 
+	Position Title - LEGISLATIVE ASSISTANT AND ASSISTANT TO THE SENATE LIAISON 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2011 
+	Name - Jarrett,Valerie B. 
+	Gender - Female 
+	Status - Employee 
+	Salary - 172200 
+	Pay Basis - Per Annum 
+	Position Title - SENIOR ADVISOR AND ASSISTANT TO THE PRESIDENT FOR INTERGOVERNMENTAL AFFAIRS AND PUBLIC ENGAGEMENT
+Position: 
+	Position Title - SENIOR ADVISOR AND ASSISTANT TO THE PRESIDENT FOR INTERGOVERNMENTAL AFFAIRS AND PUBLIC ENGAGEMENT 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2011 
+	Name - Jones,Kristin T. 
+	Gender - Female 
+	Status - Employee 
+	Salary - 50000 
+	Pay Basis - Per Annum 
+	Position Title - SPECIAL ASSISTANT AND PERSONAL AIDE TO THE FIRST LADY
+Position: 
+	Position Title - SPECIAL ASSISTANT AND PERSONAL AIDE TO THE FIRST LADY 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2011 
+	Name - McGowan,Lukas J. 
+	Gender - Male 
+	Status - Employee 
+	Salary - 45000 
+	Pay Basis - Per Annum 
+	Position Title - LEGISLATIVE ASSISTANT AND ASSISTANT TO THE HOUSE LIAISON
+Position: 
+	Position Title - LEGISLATIVE ASSISTANT AND ASSISTANT TO THE HOUSE LIAISON 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2011 
+	Name - Ortiz,Michael R. 
+	Gender - Male 
+	Status - Employee 
+	Salary - 50000 
+	Pay Basis - Per Annum 
+	Position Title - LEGISLATIVE ASSISTANT AND SPECIAL ASSISTANT TO THE DIRECTOR
+Position: 
+	Position Title - LEGISLATIVE ASSISTANT AND SPECIAL ASSISTANT TO THE DIRECTOR 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2011 
+	Name - Tseggai,Gannet L. 
+	Gender - Female 
+	Status - Employee 
+	Salary - 78000 
+	Pay Basis - Per Annum 
+	Position Title - COMMUNICATIONS ADVISOR DOMESTIC POLICY COUNCIL AND OFFICE OF NATIONAL AIDS POLICY
+Position: 
+	Position Title - COMMUNICATIONS ADVISOR DOMESTIC POLICY COUNCIL AND OFFICE OF NATIONAL AIDS POLICY 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2012 
+	Name - Granholm,Timothy C. 
+	Gender - Male 
+	Status - Employee 
+	Salary - 45000 
+	Pay Basis - Per Annum 
+	Position Title - LEGISLATIVE ASSISTANT AND ASSISTANT TO THE SENATE LIAISON
+Position: 
+	Position Title - LEGISLATIVE ASSISTANT AND ASSISTANT TO THE SENATE LIAISON 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2012 
+	Name - Grant,Kathryn A. 
+	Gender - Female 
+	Status - Employee 
+	Salary - 45000 
+	Pay Basis - Per Annum 
+	Position Title - LEGISLATIVE ASSISTANT AND ASSOCIATE DIRECTOR FOR LEGISLATIVE CORRESPONDENCE
+Position: 
+	Position Title - LEGISLATIVE ASSISTANT AND ASSOCIATE DIRECTOR FOR LEGISLATIVE CORRESPONDENCE 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2012 
+	Name - Jarrett,Valerie B. 
+	Gender - Female 
+	Status - Employee 
+	Salary - 172200 
+	Pay Basis - Per Annum 
+	Position Title - SENIOR ADVISOR AND ASSISTANT TO THE PRESIDENT FOR INTERGOVERNMENTAL AFFAIRS AND PUBLIC ENGAGEMENT
+Position: 
+	Position Title - SENIOR ADVISOR AND ASSISTANT TO THE PRESIDENT FOR INTERGOVERNMENTAL AFFAIRS AND PUBLIC ENGAGEMENT 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2012 
+	Name - Jones,Kristin T. 
+	Gender - Female 
+	Status - Employee 
+	Salary - 50000 
+	Pay Basis - Per Annum 
+	Position Title - SPECIAL ASSISTANT AND PERSONAL AIDE TO THE FIRST LADY
+Position: 
+	Position Title - SPECIAL ASSISTANT AND PERSONAL AIDE TO THE FIRST LADY 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2012 
+	Name - Rakestraw,London C. 
+	Gender - Female 
+	Status - Employee 
+	Salary - 45000 
+	Pay Basis - Per Annum 
+	Position Title - LEGISLATIVE ASSISTANT AND ASSISTANT TO THE HOUSE LIAISON
+Position: 
+	Position Title - LEGISLATIVE ASSISTANT AND ASSISTANT TO THE HOUSE LIAISON 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2013 
+	Name - Brandt,Kate E. 
+	Gender - Female 
+	Status - Detailee 
+	Salary - 92001 
+	Pay Basis - Per Annum 
+	Position Title - ENERGY/ENVIRONMENT DIRECTOR FOR PRESIDENTIAL PERSONNEL
+Position: 
+	Position Title - ENERGY AND ENVIRONMENT DIRECTOR FOR PRESIDENTIAL PERSONNEL 
+	Pay Basis - Per Annum 
+	Status - Detailee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2013 
+	Name - Grant,Kathryn A. 
+	Gender - Female 
+	Status - Employee 
+	Salary - 45000 
+	Pay Basis - Per Annum 
+	Position Title - LEGISLATIVE ASSISTANT AND ASSOCIATE DIRECTOR FOR LEGISLATIVE CORRESPONDENCE
+Position: 
+	Position Title - LEGISLATIVE ASSISTANT AND ASSOCIATE DIRECTOR FOR LEGISLATIVE CORRESPONDENCE 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2013 
+	Name - Jarrett,Valerie B. 
+	Gender - Female 
+	Status - Employee 
+	Salary - 172200 
+	Pay Basis - Per Annum 
+	Position Title - SENIOR ADVISOR AND ASSISTANT TO THE PRESIDENT FOR INTERGOVERNMENTAL AFFAIRS AND PUBLIC ENGAGEMENT
+Position: 
+	Position Title - SENIOR ADVISOR AND ASSISTANT TO THE PRESIDENT FOR INTERGOVERNMENTAL AFFAIRS AND PUBLIC ENGAGEMENT 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2013 
+	Name - Marquez,Laura R. 
+	Gender - Female 
+	Status - Detailee 
+	Salary - 132009 
+	Pay Basis - Per Annum 
+	Position Title - OUTREACH AND RECRUITMENT DIRECTOR FOR PRESIDENTIAL PERSONNEL
+Position: 
+	Position Title - OUTREACH AND RECRUITMENT DIRECTOR FOR PRESIDENTIAL PERSONNEL 
+	Pay Basis - Per Annum 
+	Status - Detailee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2013 
+	Name - Rakestraw,London C. 
+	Gender - Female 
+	Status - Employee 
+	Salary - 45000 
+	Pay Basis - Per Annum 
+	Position Title - LEGISLATIVE ASSISTANT AND ASSISTANT TO THE HOUSE LIAISON
+Position: 
+	Position Title - LEGISLATIVE ASSISTANT AND ASSISTANT TO THE HOUSE LIAISON 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2013 
+	Name - Schumer,Jessica E. 
+	Gender - Female 
+	Status - Employee 
+	Salary - 70000 
+	Pay Basis - Per Annum 
+	Position Title - SENIOR POLICY ADVISOR AND DEPUTY CHIEF OF STAFF OF THE NATIONAL ECONOMIC COUNCIL
+Position: 
+	Position Title - SENIOR POLICY ADVISOR AND DEPUTY CHIEF OF STAFF OF THE NATIONAL ECONOMIC COUNCIL 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2014 
+	Name - Cohen,Evan N. 
+	Gender - Male 
+	Status - Employee 
+	Salary - 45450 
+	Pay Basis - Per Annum 
+	Position Title - LEGISLATIVE ASSISTANT AND ASSISTANT TO THE SENATE LIAISON
+Position: 
+	Position Title - LEGISLATIVE ASSISTANT AND ASSISTANT TO THE SENATE LIAISON 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2014 
+	Name - Dinneen,James J. 
+	Gender - Male 
+	Status - Employee 
+	Salary - 55550 
+	Pay Basis - Per Annum 
+	Position Title - BOARDS AND COMMISSIONS DIRECTOR FOR PRESIDENTIAL PERSONNEL
+Position: 
+	Position Title - BOARDS AND COMMISSIONS DIRECTOR FOR PRESIDENTIAL PERSONNEL 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2014 
+	Name - Galloway,John M. 
+	Gender - Male 
+	Status - Employee 
+	Salary - 120000 
+	Pay Basis - Per Annum 
+	Position Title - SENIOR ADVISOR AND CHIEF OF STAFF OF THE NATIONAL ECONOMIC COUNCIL
+Position: 
+	Position Title - SENIOR ADVISOR AND CHIEF OF STAFF OF THE NATIONAL ECONOMIC COUNCIL 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2014 
+	Name - Harris,Jacqueline B. 
+	Gender - Female 
+	Status - Employee 
+	Salary - 45450 
+	Pay Basis - Per Annum 
+	Position Title - LEGISLATIVE ASSISTANT AND ASSOCIATE DIRECTOR FOR LEGISLATIVE CORRESPONDENCE
+Position: 
+	Position Title - LEGISLATIVE ASSISTANT AND ASSOCIATE DIRECTOR FOR LEGISLATIVE CORRESPONDENCE 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2014 
+	Name - Jain,Ashwani K. 
+	Gender - Male 
+	Status - Employee 
+	Salary - 42000 
+	Pay Basis - Per Annum 
+	Position Title - OUTREACH AND RECRUITMENT STAFF ASSISTANT FOR PRESIDENTIAL PERSONNEL
+Position: 
+	Position Title - OUTREACH AND RECRUITMENT STAFF ASSISTANT FOR PRESIDENTIAL PERSONNEL 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2014 
+	Name - Jarrett,Valerie B. 
+	Gender - Female 
+	Status - Employee 
+	Salary - 172200 
+	Pay Basis - Per Annum 
+	Position Title - SENIOR ADVISOR AND ASSISTANT TO THE PRESIDENT FOR INTERGOVERNMENTAL AFFAIRS AND PUBLIC ENGAGEMENT
+Position: 
+	Position Title - SENIOR ADVISOR AND ASSISTANT TO THE PRESIDENT FOR INTERGOVERNMENTAL AFFAIRS AND PUBLIC ENGAGEMENT 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2014 
+	Name - Jarvis,Kristen E. 
+	Gender - Female 
+	Status - Employee 
+	Salary - 85000 
+	Pay Basis - Per Annum 
+	Position Title - DEPUTY SENIOR ADVISOR AND DIRECTOR OF EXTERNAL RELATIONS FOR THE FIRST LADY
+Position: 
+	Position Title - DEPUTY SENIOR ADVISOR AND DIRECTOR OF EXTERNAL RELATIONS FOR THE FIRST LADY 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2014 
+	Name - Millben,Michelle J. 
+	Gender - Female 
+	Status - Employee 
+	Salary - 55000 
+	Pay Basis - Per Annum 
+	Position Title - OUTREACH AND RECRUITMENT DIRECTOR FOR PRESIDENTIAL PERSONNEL (CONGRESSIONAL)
+Position: 
+	Position Title - OUTREACH AND RECRUITMENT DIRECTOR FOR PRESIDENTIAL PERSONNEL 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2014 
+	Name - Rikkers,Samuel H. 
+	Gender - Male 
+	Status - Employee 
+	Salary - 55550 
+	Pay Basis - Per Annum 
+	Position Title - ENERGY AND ENVIRONMENT DIRECTOR FOR PRESIDENTIAL PERSONNEL
+Position: 
+	Position Title - ENERGY AND ENVIRONMENT DIRECTOR FOR PRESIDENTIAL PERSONNEL 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2014 
+	Name - Roth,Dena M. 
+	Gender - Female 
+	Status - Employee 
+	Salary - 42000 
+	Pay Basis - Per Annum 
+	Position Title - OUTREACH AND RECRUITMENT STAFF ASSISTANT FOR PRESIDENTIAL PERSONNEL
+Position: 
+	Position Title - OUTREACH AND RECRUITMENT STAFF ASSISTANT FOR PRESIDENTIAL PERSONNEL 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2014 
+	Name - Shulman,Sophie M. 
+	Gender - Female 
+	Status - Employee 
+	Salary - 55000 
+	Pay Basis - Per Annum 
+	Position Title - DEPUTY PRESS SECRETARY AND EXECUTIVE SECRETARY FOR THE DOMESTIC POLICY COUNCIL
+Position: 
+	Position Title - DEPUTY PRESS SECRETARY AND EXECUTIVE SECRETARY FOR THE DOMESTIC POLICY COUNCIL 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2014 
+	Name - Waldo,Eric W. 
+	Gender - Male 
+	Status - Detailee 
+	Salary - 141660 
+	Pay Basis - Per Annum 
+	Position Title - EXECUTIVE DIRECTOR AND POLICY ADVISOR, REACH HIGHER INITIATIVE
+Position: 
+	Position Title - EXECUTIVE DIRECTOR AND POLICY ADVISOR, REACH HIGHER INITIATIVE 
+	Pay Basis - Per Annum 
+	Status - Detailee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2015 
+	Name - Abraham,Sabey M. 
+	Gender - Female 
+	Status - Employee 
+	Salary - 55000 
+	Pay Basis - Per Annum 
+	Position Title - ENERGY AND ENVIRONMENT DIRECTOR FOR PRESIDENTIAL PERSONNEL
+Position: 
+	Position Title - ENERGY AND ENVIRONMENT DIRECTOR FOR PRESIDENTIAL PERSONNEL 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2015 
+	Name - Galloway,John M. 
+	Gender - Male 
+	Status - Employee 
+	Salary - 121200 
+	Pay Basis - Per Annum 
+	Position Title - SENIOR ADVISOR AND CHIEF OF STAFF OF THE NATIONAL ECONOMIC COUNCIL
+Position: 
+	Position Title - SENIOR ADVISOR AND CHIEF OF STAFF OF THE NATIONAL ECONOMIC COUNCIL 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2015 
+	Name - Harris,Jacqueline B. 
+	Gender - Female 
+	Status - Employee 
+	Salary - 45905 
+	Pay Basis - Per Annum 
+	Position Title - LEGISLATIVE ASSISTANT AND ASSOCIATE DIRECTOR FOR LEGISLATIVE CORRESPONDENCE
+Position: 
+	Position Title - LEGISLATIVE ASSISTANT AND ASSOCIATE DIRECTOR FOR LEGISLATIVE CORRESPONDENCE 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2015 
+	Name - Hornung,Daniel Z. 
+	Gender - Male 
+	Status - Employee 
+	Salary - 64000 
+	Pay Basis - Per Annum 
+	Position Title - SPECIAL ASSISTANT AND ADVISOR TO THE SENIOR ADVISOR
+Position: 
+	Position Title - SPECIAL ASSISTANT AND ADVISOR TO THE SENIOR ADVISOR 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2015 
+	Name - Jarrett,Valerie B. 
+	Gender - Female 
+	Status - Employee 
+	Salary - 173922 
+	Pay Basis - Per Annum 
+	Position Title - SENIOR ADVISOR AND ASSISTANT TO THE PRESIDENT FOR INTERGOVERNMENTAL AFFAIRS AND PUBLIC ENGAGEMENT
+Position: 
+	Position Title - SENIOR ADVISOR AND ASSISTANT TO THE PRESIDENT FOR INTERGOVERNMENTAL AFFAIRS AND PUBLIC ENGAGEMENT 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2015 
+	Name - Jones,Kristin T. 
+	Gender - Female 
+	Status - Employee 
+	Salary - 70000 
+	Pay Basis - Per Annum 
+	Position Title - SPECIAL ASSISTANT AND DIRECTOR OF SPECIAL PROJECTS FOR THE FIRST LADY
+Position: 
+	Position Title - SPECIAL ASSISTANT AND DIRECTOR OF SPECIAL PROJECTS FOR THE FIRST LADY 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2015 
+	Name - Pielemeier,Katherine L. 
+	Gender - Female 
+	Status - Employee 
+	Salary - 55550 
+	Pay Basis - Per Annum 
+	Position Title - OUTREACH AND RECRUITMENT DIRECTOR FOR PRESIDENTIAL PERSONNEL
+Position: 
+	Position Title - OUTREACH AND RECRUITMENT DIRECTOR FOR PRESIDENTIAL PERSONNEL 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2015 
+	Name - Price,Ryan L. 
+	Gender - Male 
+	Status - Employee 
+	Salary - 65650 
+	Pay Basis - Per Annum 
+	Position Title - SPECIAL ASSISTANT AND ADVISOR TO THE DIRECTOR OF LEGISLATIVE AFFAIRS
+Position: 
+	Position Title - SPECIAL ASSISTANT AND ADVISOR TO THE DIRECTOR OF LEGISLATIVE AFFAIRS 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2015 
+	Name - Raizk,Paul S. 
+	Gender - Male 
+	Status - Employee 
+	Salary - 125210 
+	Pay Basis - Per Annum 
+	Position Title - DEPUTY DIRECTOR AND SENIOR ADVISOR FOR RECORDS MANAGEMENT
+Position: 
+	Position Title - DEPUTY DIRECTOR AND SENIOR ADVISOR FOR RECORDS MANAGEMENT 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2015 
+	Name - Rangel,Antoinette N. 
+	Gender - Female 
+	Status - Employee 
+	Salary - 57500 
+	Pay Basis - Per Annum 
+	Position Title - SPECIAL ASSISTANT AND ADVISOR TO THE PRESS SECRETARY
+Position: 
+	Position Title - SPECIAL ASSISTANT AND ADVISOR TO THE PRESS SECRETARY 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2015 
+	Name - Rosholm,Joanna S. 
+	Gender - Female 
+	Status - Employee 
+	Salary - 77000 
+	Pay Basis - Per Annum 
+	Position Title - PRESS SECRETARY AND DEPUTY COMMUNICATIONS DIRECTOR FOR THE FIRST LADY
+Position: 
+	Position Title - PRESS SECRETARY AND DEPUTY COMMUNICATIONS DIRECTOR FOR THE FIRST LADY 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2015 
+	Name - Schneir,Hallie R. 
+	Gender - Female 
+	Status - Employee 
+	Salary - 97970 
+	Pay Basis - Per Annum 
+	Position Title - DEPUTY EXECUTIVE DIRECTOR AND DIRECTOR OF OUTREACH FOR THE COUNCIL ON WOMEN AND GIRLS
+Position: 
+	Position Title - DEPUTY EXECUTIVE DIRECTOR AND DIRECTOR OF OUTREACH FOR THE COUNCIL ON WOMEN AND GIRLS 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2015 
+	Name - Wagstaff,Jesica E. 
+	Gender - Female 
+	Status - Employee 
+	Salary - 45905 
+	Pay Basis - Per Annum 
+	Position Title - LEGISLATIVE ASSISTANT AND ASSISTANT TO THE SENATE LIAISON
+Position: 
+	Position Title - LEGISLATIVE ASSISTANT AND ASSISTANT TO THE SENATE LIAISON 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2015 
+	Name - Wang,Ya Wei 
+	Gender - Female 
+	Status - Employee 
+	Salary - 85000 
+	Pay Basis - Per Annum 
+	Position Title - SPECIAL ASSISTANT AND ADVISOR TO THE CHIEF OF STAFF
+Position: 
+	Position Title - SPECIAL ASSISTANT AND ADVISOR TO THE CHIEF OF STAFF 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2016 
+	Name - Baharaeen,Renee R. 
+	Gender - Female 
+	Status - Employee 
+	Salary - 44500 
+	Pay Basis - Per Annum 
+	Position Title - STAFF ASSISTANT AND COORDINATOR FOR PRESIDENTIAL PERSONNEL OFFICE
+Position: 
+	Position Title - STAFF ASSISTANT AND COORDINATOR FOR PRESIDENTIAL PERSONNEL OFFICE 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2016 
+	Name - Barnes,Desiree N. 
+	Gender - Female 
+	Status - Employee 
+	Salary - 62845 
+	Pay Basis - Per Annum 
+	Position Title - SPECIAL ASSISTANT AND ADVISOR FOR THE PRESS SECRETARY
+Position: 
+	Position Title - SPECIAL ASSISTANT AND ADVISOR FOR THE PRESS SECRETARY 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2016 
+	Name - Cabrera Bell,Karina 
+	Gender - Female 
+	Status - Employee 
+	Salary - 60876 
+	Pay Basis - Per Annum 
+	Position Title - OUTREACH AND RECRUITMENT DIRECTOR FOR PRESIDENTIAL PERSONNEL
+Position: 
+	Position Title - OUTREACH AND RECRUITMENT DIRECTOR FOR PRESIDENTIAL PERSONNEL 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2016 
+	Name - Clayton,Chynna Y. 
+	Gender - Female 
+	Status - Employee 
+	Salary - 65949 
+	Pay Basis - Per Annum 
+	Position Title - SPECIAL ASSISTANT AND TRIP DIRECTOR TO THE FIRST LADY
+Position: 
+	Position Title - SPECIAL ASSISTANT AND TRIP DIRECTOR TO THE FIRST LADY 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2016 
+	Name - Cunnane,Patrick J. 
+	Gender - Male 
+	Status - Employee 
+	Salary - 68390 
+	Pay Basis - Per Annum 
+	Position Title - SENIOR WRITER AND DEPUTY DIRECTOR OF MESSAGING
+Position: 
+	Position Title - SENIOR WRITER AND DEPUTY DIRECTOR OF MESSAGING 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2016 
+	Name - Dillon,Molly D. 
+	Gender - Female 
+	Status - Employee 
+	Salary - 50000 
+	Pay Basis - Per Annum 
+	Position Title - SPECIAL ASSISTANT AND POLICY ADVISOR FOR THE OFFICE OF URBAN AFFAIRS, JUSTICE, AND OPPORTUNITY
+Position: 
+	Position Title - SPECIAL ASSISTANT AND POLICY ADVISOR FOR THE OFFICE OF URBAN AFFAIRS, JUSTICE, AND OPPORTUNITY 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2016 
+	Name - Freedman-Gurspan,Rafael M. 
+	Gender - Male 
+	Status - Employee 
+	Salary - 65000 
+	Pay Basis - Per Annum 
+	Position Title - OUTREACH AND RECRUITMENT DIRECTOR FOR PRESIDENTIAL PERSONNEL AND ASSOCIATE DIRECTOR OF PUBLIC ENGAGEMENT
+Position: 
+	Position Title - OUTREACH AND RECRUITMENT DIRECTOR FOR PRESIDENTIAL PERSONNEL AND ASSOCIATE DIRECTOR OF PUBLIC ENGAGEMENT 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2016 
+	Name - Gallogly,Katharine S. 
+	Gender - Female 
+	Status - Employee 
+	Salary - 50730 
+	Pay Basis - Per Annum 
+	Position Title - SPECIAL ASSISTANT AND POLICY ADVISOR FOR EDUCATION
+Position: 
+	Position Title - SPECIAL ASSISTANT AND POLICY ADVISOR FOR EDUCATION 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2016 
+	Name - Gaughran,Kaitlin D. 
+	Gender - Female 
+	Status - Employee 
+	Salary - 60000 
+	Pay Basis - Per Annum 
+	Position Title - SENIOR ADVANCE MANAGER AND DIRECTOR OF PRINCIPAL TRIP ACCOMMODATIONS
+Position: 
+	Position Title - SENIOR ADVANCE MANAGER AND DIRECTOR OF PRINCIPAL TRIP ACCOMMODATIONS 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2016 
+	Name - Gray,Ian Q. 
+	Gender - Male 
+	Status - Employee 
+	Salary - 50000 
+	Pay Basis - Per Annum 
+	Position Title - SPECIAL ASSISTANT AND POLICY ADVISOR TO THE DIRECTOR OF THE DOMESTIC POLICY COUNCIL
+Position: 
+	Position Title - SPECIAL ASSISTANT AND POLICY ADVISOR TO THE DIRECTOR OF THE DOMESTIC POLICY COUNCIL 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2016 
+	Name - Hankins,Hannah R. 
+	Gender - Female 
+	Status - Employee 
+	Salary - 70000 
+	Pay Basis - Per Annum 
+	Position Title - COMMUNICATIONS DIRECTOR AND SENIOR POLICY ADVISOR FOR THE DOMESTIC POLICY COUNCIL
+Position: 
+	Position Title - COMMUNICATIONS DIRECTOR AND SENIOR POLICY ADVISOR FOR THE DOMESTIC POLICY COUNCIL 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2016 
+	Name - Jarrett,Valerie B. 
+	Gender - Female 
+	Status - Employee 
+	Salary - 176461 
+	Pay Basis - Per Annum 
+	Position Title - SENIOR ADVISOR AND ASSISTANT TO THE PRESIDENT FOR INTERGOVERNMENTAL AFFAIRS AND PUBLIC ENGAGEMENT
+Position: 
+	Position Title - SENIOR ADVISOR AND ASSISTANT TO THE PRESIDENT FOR INTERGOVERNMENTAL AFFAIRS AND PUBLIC ENGAGEMENT 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2016 
+	Name - Jones,Kristin T. 
+	Gender - Female 
+	Status - Employee 
+	Salary - 71022 
+	Pay Basis - Per Annum 
+	Position Title - SPECIAL ASSISTANT AND DIRECTOR OF SPECIAL PROJECTS FOR THE FIRST LADY
+Position: 
+	Position Title - SPECIAL ASSISTANT AND DIRECTOR OF SPECIAL PROJECTS FOR THE FIRST LADY 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2016 
+	Name - Katz-Hernandez,Leah B. 
+	Gender - Female 
+	Status - Employee 
+	Salary - 48000 
+	Pay Basis - Per Annum 
+	Position Title - WEST WING RECEPTIONIST AND COORDINATOR FOR OPERATIONS
+Position: 
+	Position Title - WEST WING RECEPTIONIST AND COORDINATOR FOR OPERATIONS 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2016 
+	Name - Kendrick,Paul C. 
+	Gender - Male 
+	Status - Employee 
+	Salary - 60000 
+	Pay Basis - Per Annum 
+	Position Title - CLIMATE AND DOMESTIC DIRECTOR FOR PRESIDENTIAL PERSONNEL
+Position: 
+	Position Title - CLIMATE AND DOMESTIC DIRECTOR FOR PRESIDENTIAL PERSONNEL 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2016 
+	Name - Mayber,Dana M. 
+	Gender - Female 
+	Status - Employee 
+	Salary - 50000 
+	Pay Basis - Per Annum 
+	Position Title - SPECIAL ASSISTANT AND POLICY ADVISOR FOR THE WHITE HOUSE OFFICE OF FAITH-BASED AND NEIGHBORHOOD PARTNERSHIPS
+Position: 
+	Position Title - SPECIAL ASSISTANT AND POLICY ADVISOR FOR THE WHITE HOUSE OFFICE OF FAITH BASED AND NEIGHBORHOOD PARTNERSHIPS 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2016 
+	Name - Price,Ryan L. 
+	Gender - Male 
+	Status - Employee 
+	Salary - 66608 
+	Pay Basis - Per Annum 
+	Position Title - SPECIAL ASSISTANT AND ADVISOR TO THE DIRECTOR OF LEGISLATIVE AFFAIRS
+Position: 
+	Position Title - SPECIAL ASSISTANT AND ADVISOR TO THE DIRECTOR OF LEGISLATIVE AFFAIRS 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2016 
+	Name - Raizk,Paul S. 
+	Gender - Male 
+	Status - Employee 
+	Salary - 127038 
+	Pay Basis - Per Annum 
+	Position Title - DEPUTY DIRECTOR AND SENIOR ADVISOR FOR RECORDS MANAGEMENT
+Position: 
+	Position Title - DEPUTY DIRECTOR AND SENIOR ADVISOR FOR RECORDS MANAGEMENT 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2016 
+	Name - Ray,Joanna E. 
+	Gender - Female 
+	Status - Employee 
+	Salary - 60876 
+	Pay Basis - Per Annum 
+	Position Title - BOARDS AND COMMISSIONS DIRECTOR FOR PRESIDENTIAL PERSONNEL
+Position: 
+	Position Title - BOARDS AND COMMISSIONS DIRECTOR FOR PRESIDENTIAL PERSONNEL 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2016 
+	Name - Rosholm,Joanna S. 
+	Gender - Female 
+	Status - Employee 
+	Salary - 78124 
+	Pay Basis - Per Annum 
+	Position Title - PRESS SECRETARY AND DEPUTY COMMUNICATIONS DIRECTOR FOR THE FIRST LADY
+Position: 
+	Position Title - PRESS SECRETARY AND DEPUTY COMMUNICATIONS DIRECTOR FOR THE FIRST LADY 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2016 
+	Name - Sopko,Alexandra L. 
+	Gender - Female 
+	Status - Employee 
+	Salary - 45000 
+	Pay Basis - Per Annum 
+	Position Title - SPECIAL ASSISTANT AND POLICY ADVISOR TO THE DIRECTOR OF INTERGOVERNMENTAL AFFAIRS
+Position: 
+	Position Title - SPECIAL ASSISTANT AND POLICY ADVISOR TO THE DIRECTOR OF INTERGOVERNMENTAL AFFAIRS 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2016 
+	Name - Velz,Peter T. 
+	Gender - Male 
+	Status - Employee 
+	Salary - 50470 
+	Pay Basis - Per Annum 
+	Position Title - SENIOR PRESS ASSISTANT AND SPECIAL ASSISTANT TO THE DEPUTY DIRECTOR OF COMMUNICATIONS
+Position: 
+	Position Title - SENIOR PRESS ASSISTANT AND SPECIAL ASSISTANT TO THE DEPUTY DIRECTOR OF COMMUNICATIONS 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2016 
+	Name - Wang,Ya Wei 
+	Gender - Female 
+	Status - Employee 
+	Salary - 86241 
+	Pay Basis - Per Annum 
+	Position Title - SPECIAL ASSISTANT AND ADVISOR TO THE CHIEF OF STAFF
+Position: 
+	Position Title - SPECIAL ASSISTANT AND ADVISOR TO THE CHIEF OF STAFF 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2016 
+	Name - Yudelson,Alex R. 
+	Gender - Male 
+	Status - Employee 
+	Salary - 45000 
+	Pay Basis - Per Annum 
+	Position Title - SPECIAL ASSISTANT AND POLICY ADVISOR TO THE CHIEF OF STAFF OF THE OFFICE OF PUBLIC ENGAGEMENT AND INTERGOVERNMENTAL AFFAIRS
+Position: 
+	Position Title - SPECIAL ASSISTANT AND POLICY ADVISOR TO THE CHIEF OF STAFF OF THE OFFICE OF PUBLIC ENGAGEMENT AND INTERGOVERNMENTAL AFFAIRS 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2017 
+	Name - Raizk,Paul S. 
+	Gender - Male 
+	Status - Employee 
+	Salary - 133410 
+	Pay Basis - Per Annum 
+	Position Title - DEPUTY DIRECTOR AND SENIOR ADVISOR FOR RECORDS MANAGEMENT
+Position: 
+	Position Title - DEPUTY DIRECTOR AND SENIOR ADVISOR FOR RECORDS MANAGEMENT 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2018 
+	Name - McCaffrey,Grace E. 
+	Gender - Female 
+	Status - Employee 
+	Salary - 52000 
+	Pay Basis - Per Annum 
+	Position Title - TRAVEL AND LOGISTICS MANAGER FOR WHITE HOUSE MANAGEMENT OFFICE
+Position: 
+	Position Title - TRAVEL AND LOGISTICS MANAGER FOR WHITE HOUSE MANAGEMENT OFFICE 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2018 
+	Name - Raizk,Paul S. 
+	Gender - Male 
+	Status - Employee 
+	Salary - 135900 
+	Pay Basis - Per Annum 
+	Position Title - DEPUTY DIRECTOR AND SENIOR ADVISOR FOR RECORDS MANAGEMENT
+Position: 
+	Position Title - DEPUTY DIRECTOR AND SENIOR ADVISOR FOR RECORDS MANAGEMENT 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2018 
+	Name - Reese,Christopher M. 
+	Gender - Male 
+	Status - Employee 
+	Salary - 71300 
+	Pay Basis - Per Annum 
+	Position Title - OPERATIONS MANAGER AND AIDE TO THE DIRECTOR OF MANAGEMENT AND ADMINISTRATION
+Position: 
+	Position Title - OPERATIONS MANAGER AND AIDE TO THE DIRECTOR OF MANAGEMENT AND ADMINISTRATION 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2019 
+	Name - McCaffrey,Grace E. 
+	Gender - Female 
+	Status - Employee 
+	Salary - 64400 
+	Pay Basis - Per Annum 
+	Position Title - SPECIAL PROJECTS AND TRAVEL MANAGER FOR WHITE HOUSE MANAGEMENT OFFICE
+Position: 
+	Position Title - SPECIAL PROJECTS AND TRAVEL MANAGER FOR WHITE HOUSE MANAGEMENT OFFICE 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2019 
+	Name - Raizk,Paul S. 
+	Gender - Male 
+	Status - Employee 
+	Salary - 138500 
+	Pay Basis - Per Annum 
+	Position Title - DEPUTY DIRECTOR AND SENIOR ADVISOR FOR RECORDS MANAGEMENT
+Position: 
+	Position Title - DEPUTY DIRECTOR AND SENIOR ADVISOR FOR RECORDS MANAGEMENT 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+
+Record: 
+	Year - 2020 
+	Name - Raizk,Paul S. 
+	Gender - Male 
+	Status - Employee 
+	Salary - 149600 
+	Pay Basis - Per Annum 
+	Position Title - DEPUTY DIRECTOR AND SENIOR ADVISOR FOR RECORDS MANAGEMENT
+Position: 
+	Position Title - DEPUTY DIRECTOR AND SENIOR ADVISOR FOR RECORDS MANAGEMENT 
+	Pay Basis - Per Annum 
+	Status - Employee 
+Outcome: False
+Results: 
+	Invalid Characters: 0
+	Mutli Position Valid: True
+	PayBasis Valid: True
+	Status Valid: True
+	No Separators: False
+	Validation Type: Position
+

@@ -1,0 +1,598 @@
+Record: 
+WhiteHouseETL.Models.WhiteHouseStaff
+Results: 
+Record: 
+WhiteHouseETL.Models.WhiteHouseStaff
+Results: 
+Record: 
+WhiteHouseETL.Models.WhiteHouseStaff
+Results: 
+Record: 
+WhiteHouseETL.Models.WhiteHouseStaff
+Results: 
+Record: 
+WhiteHouseETL.Models.WhiteHouseStaff
+Results: 
+Record: 
+WhiteHouseETL.Models.WhiteHouseStaff
+Results: 
+Record: 
+WhiteHouseETL.Models.WhiteHouseStaff
+Results: 
+Record: 
+WhiteHouseETL.Models.WhiteHouseStaff
+Results: 
+Record: 
+WhiteHouseETL.Models.WhiteHouseStaff
+Results: 
+Record: 
+WhiteHouseETL.Models.WhiteHouseStaff
+Results: 
+Record: 
+WhiteHouseETL.Models.WhiteHouseStaff
+Results: 
+Record: 
+WhiteHouseETL.Models.WhiteHouseStaff
+Results: 
+Record: 
+WhiteHouseETL.Models.WhiteHouseStaff
+Results: 
+Record: 
+WhiteHouseETL.Models.WhiteHouseStaff
+Results: 
+Record: 
+WhiteHouseETL.Models.WhiteHouseStaff
+Results: 
+Record: 
+WhiteHouseETL.Models.WhiteHouseStaff
+Results: 
+Record: 
+WhiteHouseETL.Models.WhiteHouseStaff
+Results: 
+Record: 
+WhiteHouseETL.Models.WhiteHouseStaff
+Results: 
+Record: 
+WhiteHouseETL.Models.WhiteHouseStaff
+Results: 
+Record: 
+WhiteHouseETL.Models.WhiteHouseStaff
+Results: 
+Record: 
+WhiteHouseETL.Models.WhiteHouseStaff
+Results: 
+Record: 
+WhiteHouseETL.Models.WhiteHouseStaff
+Results: 
+Record: 
+WhiteHouseETL.Models.WhiteHouseStaff
+Results: 
+Record: 
+WhiteHouseETL.Models.WhiteHouseStaff
+Results: 
+Record: 
+WhiteHouseETL.Models.WhiteHouseStaff
+Results: 
+Record: 
+WhiteHouseETL.Models.WhiteHouseStaff
+Results: 
+Record: 
+WhiteHouseETL.Models.WhiteHouseStaff
+Results: 
+Record: 
+WhiteHouseETL.Models.WhiteHouseStaff
+Results: 
+Record: 
+WhiteHouseETL.Models.WhiteHouseStaff
+Results: 
+Record: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:False	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:False	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:False	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:False	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:False	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:False	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:False	Status Valid:TrueRecord: 
+
+Results: 
+	Invalid Characters:	Position Valid:True	Pay Basis Valid:True	Status Valid:TrueRecord: 
+
+Results: 
+	Salary value valid: False	Year value valid: TrueRecord: 
+
+Results: 
+	Salary value valid: False	Year value valid: TrueRecord: 
+
+Results: 
+	Salary value valid: False	Year value valid: TrueRecord: 
+
+Results: 
+	Salary value valid: False	Year value valid: TrueRecord: 
+
+Results: 
+	Salary value valid: False	Year value valid: TrueRecord: 
+
+Results: 
+	Salary value valid: False	Year value valid: TrueRecord: 
+
+Results: 
+	Salary value valid: False	Year value valid: TrueRecord: 
+
+Results: 
+	Salary value valid: False	Year value valid: TrueRecord: 
+
+Results: 
+	Salary value valid: False	Year value valid: TrueRecord: 
+
+Results: 
+	Salary value valid: False	Year value valid: TrueRecord: 
+
+Results: 
+	Salary value valid: False	Year value valid: TrueRecord: 
+
+Results: 
+	Salary value valid: False	Year value valid: TrueRecord: 
+
+Results: 
+	Salary value valid: False	Year value valid: TrueRecord: 
+
+Results: 
+	Salary value valid: False	Year value valid: TrueRecord: 
+
+Results: 
+	Salary value valid: False	Year value valid: TrueRecord: 
+
+Results: 
+	Salary value valid: False	Year value valid: TrueRecord: 
+
+Results: 
+	Salary value valid: False	Year value valid: TrueRecord: 
+
+Results: 
+	Salary value valid: False	Year value valid: TrueRecord: 
+
+Results: 
+	Salary value valid: False	Year value valid: TrueRecord: 
+
+Results: 
+	Salary value valid: False	Year value valid: TrueRecord: 
+
+Results: 
+	Salary value valid: False	Year value valid: TrueRecord: 
+
+Results: 
+	Salary value valid: False	Year value valid: TrueRecord: 
+
+Results: 
+	Salary value valid: False	Year value valid: TrueRecord: 
+
+Results: 
+	Salary value valid: False	Year value valid: TrueRecord: 
+
+Results: 
+	Salary value valid: False	Year value valid: TrueRecord: 
+
+Results: 
+	Salary value valid: False	Year value valid: TrueRecord: 
+
+Results: 
+	Salary value valid: False	Year value valid: TrueRecord: 
+
+Results: 
+	Salary value valid: False	Year value valid: TrueRecord: 
+
+Results: 
+	Salary value valid: False	Year value valid: TrueRecord: 
+
+Results: 
+	Salary value valid: False	Year value valid: TrueRecord: 
+
+Results: 
+	Salary value valid: False	Year value valid: TrueRecord: 
+
+Results: 
+	Salary value valid: False	Year value valid: TrueRecord: 
+
+Results: 
+	Salary value valid: False	Year value valid: TrueRecord: 
+
+Results: 
+	Salary value valid: False	Year value valid: TrueRecord: 
+
+Results: 
+	Salary value valid: False	Year value valid: TrueRecord: 
+
+Results: 
+	Salary value valid: False	Year value valid: TrueRecord: 
+
+Results: 
+	Salary value valid: False	Year value valid: TrueRecord: 
+
+Results: 
+	Salary value valid: False	Year value valid: TrueRecord: 
+
+Results: 
+	Salary value valid: False	Year value valid: TrueRecord: 
+
+Results: 
+	Salary value valid: False	Year value valid: TrueRecord: 
+
+Results: 
+	Salary value valid: False	Year value valid: TrueRecord: 
+
+Results: 
+	Salary value valid: False	Year value valid: True

@@ -14,13 +14,16 @@ public class TaskSalary
         foreach (var record in records)
         {    
             ValidationResult validationResult = ValidationHelpers.SalaryTableValidation(record.Salary, record.Year);
+            Salary salary = new Salary() { RowNumber = record.RowNumber, EmployeeSalary = record.Salary, Year = record.Year };
             if (validationResult.Passed)
             {
-                Salary salary = new Salary() { RowNumber = record.RowNumber, EmployeeSalary = record.Salary, Year = record.Year};
+                
                 salaries.Add(salary);
             }
             else
             {
+                validationResult.Salary = salary;
+                validationResult.Record = record;
                 validationResults.Add(validationResult);
             }                       
         }

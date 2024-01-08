@@ -14,21 +14,22 @@ public static class TaskEmployee
         foreach (var record in records)
         {
             ValidationResult validationResult = ValidationHelpers.EmployeeTableValidation(record.Name);
+            Employee employee = new Employee()
+            {
+                RowNumber = record.RowNumber,
+                FirstName = TransformationHelpers.ExtractNameWithDeLimiters(record.Name, type: "BETWEEN", delimiterLeft: ",", delimiterRight: " "),
+                MiddleInitial = TransformationHelpers.ExtractNameWithDeLimiters(record.Name, type: "RIGHT", delimiterRight: " "),
+                LastName = TransformationHelpers.ExtractNameWithDeLimiters(record.Name, delimiterLeft: ","),
+                Gender = record.Gender,
+            };
+
             if (validationResult.Passed)
             {
-                Employee employee = new Employee()
-                {
-                    RowNumber = record.RowNumber,
-                    FirstName = TransformationHelpers.ExtractNameWithDeLimiters(record.Name, type: "BETWEEN", delimiterLeft: ",", delimiterRight: " "),
-                    MiddleInitial = TransformationHelpers.ExtractNameWithDeLimiters(record.Name, type: "RIGHT", delimiterRight: " "),
-                    LastName = TransformationHelpers.ExtractNameWithDeLimiters(record.Name, delimiterLeft: ","),
-                    Gender = record.Gender,
-                };
-
                 employees.Add(employee);
             }
             else
             {
+                validationResult.Employee = employee;
                 validationResult.Record = record;
                 validationResults.Add(validationResult);
             }
