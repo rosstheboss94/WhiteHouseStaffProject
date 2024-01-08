@@ -7,13 +7,14 @@ namespace WhiteHouseETL.Tasks;
 
 public static class TaskEmployee
 {
-    public static (List<Employee>, List<WhiteHouseStaff>) Transform(List<WhiteHouseStaff> records, List<WhiteHouseStaff> invalidRecords)
+    public static (List<Employee>, List<ValidationResult>) Transform(List<WhiteHouseStaff> records, List<ValidationResult> validationResults)
     {
         List<Employee> employees = new List<Employee>();
 
         foreach (var record in records)
         {
-            if (ValidationHelpers.EmployeeTableValidation(record.Name))
+            ValidationResult validationResult = ValidationHelpers.EmployeeTableValidation(record.Name);
+            if (validationResult.Passed)
             {
                 Employee employee = new Employee()
                 {
@@ -28,22 +29,12 @@ public static class TaskEmployee
             }
             else
             {
-                WhiteHouseStaff invalid = new WhiteHouseStaff()
-                {
-                    Year = record.Year,
-                    Name = record.Name,
-                    Gender = record.Gender,
-                    Status = record.Status,
-                    Salary = record.Salary,
-                    PayBasis = record.PayBasis,
-                    PositionTitle = record.PositionTitle
-                };
-
-                invalidRecords.Add(invalid);
+                validationResult.Record = record;
+                validationResults.Add(validationResult);
             }
         }
 
-        return (employees, invalidRecords);
+        return (employees, validationResults);
     }
 
     public static void Load(List<Employee> employees)

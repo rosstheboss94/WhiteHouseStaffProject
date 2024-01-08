@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WhiteHouseETL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e04c9568d9f6d526fe1398b998f40e595f01177f")]
 [assembly: System.Reflection.AssemblyProductAttribute("WhiteHouseETL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WhiteHouseETL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

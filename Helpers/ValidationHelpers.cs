@@ -6,41 +6,40 @@ namespace WhiteHouseETL.Helpers;
 
 public static class ValidationHelpers
 {
-    public static bool EmployeeTableValidation(string name)
+    public static ValidationResult EmployeeTableValidation(string name)
     {
+        ValidationResult validationResult = new ValidationResult() { Passed = false};
 
-        bool isMatch = false;
+        if (Regex.IsMatch(name, @"^[A-Za-z\-']+ [A-Za-z]+ [A-Za-z]+,[A-Za-z]+ [A-Za-z]+\.")) validationResult.Passed = true;
+        else if (Regex.IsMatch(name, @"^[A-Za-z\-']+ [A-Za-z]+,[A-Za-z]+ [A-Za-z]+\.,[A-Za-z]+\.")) validationResult.Passed = true;
+        else if (Regex.IsMatch(name, @"^[A-Za-z\-']+ [A-Za-z]+ [A-Za-z]+,[A-Za-z]+ [A-Za-z]+\. ")) validationResult.Passed = true;
+        else if (Regex.IsMatch(name, @"^[A-Za-z\-']+ [A-Za-z]+,[A-Za-z]+ [A-Za-z]+ [A-Za-z]+\.")) validationResult.Passed = true;
+        else if (Regex.IsMatch(name, @"^[A-Za-z\-']+,[A-Za-z]+ [A-Za-z]+\.+ [A-Za-z]+\.")) validationResult.Passed = true;
+        else if (Regex.IsMatch(name, @"^[A-Za-z\-']+,[A-Za-z]+ [A-Za-z]+\.+ [A-Za-z]")) validationResult.Passed = true;
+        else if (Regex.IsMatch(name, @"^[A-Za-z\-']+ [A-Za-z]+,[A-Za-z]+ [A-Za-z]+ [A-Za-z]")) validationResult.Passed = true;
+        else if (Regex.IsMatch(name, @"^[A-Za-z\-']+,[A-Za-z]+ [A-Za-z]+\.,[A-Za-z]+\.")) validationResult.Passed = true;
+        else if (Regex.IsMatch(name, @"^[A-Za-z\-']+,[A-Za-z]+ [A-Za-z]+,[A-Za-z]+\.")) validationResult.Passed = true;
+        else if (Regex.IsMatch(name, @"^[A-Za-z\-']+ [A-Za-z]+,[A-Za-z]+ [A-Za-z]+\.")) validationResult.Passed = true;
+        else if (Regex.IsMatch(name, @"^[A-Za-z\-']+,[A-Za-z]+ [A-Za-z]+\.")) validationResult.Passed = true;
+        else if (Regex.IsMatch(name, @"^[A-Za-z\-']+,[A-Za-z]+ [A-Za-z]+ [A-Za-z]")) validationResult.Passed = true;
+        else if (Regex.IsMatch(name, @"^[A-Za-z\-']+,[A-Za-z]+ [A-Za-z]+\.,[A-Za-z]")) validationResult.Passed = true;
+        else if (Regex.IsMatch(name, @"^[A-Za-z\-']+,[A-Za-z]+ [A-Za-z]+,[A-Za-z]")) validationResult.Passed = true;
+        else if (Regex.IsMatch(name, @"^[A-Za-z\-']+,[A-Za-z]+ [A-Za-z]")) validationResult.Passed = true;
+        else if (Regex.IsMatch(name, @"^[A-Za-z\-']+ [A-Za-z]+,[A-Za-z]")) validationResult.Passed = true;
+        else if (Regex.IsMatch(name, @"^[A-Za-z\-']+,[A-Za-z]")) validationResult.Passed = true;
 
-        if (Regex.IsMatch(name, @"^[A-Za-z\-']+ [A-Za-z]+ [A-Za-z]+,[A-Za-z]+ [A-Za-z]+\.")) isMatch = true;
-        else if (Regex.IsMatch(name, @"^[A-Za-z\-']+ [A-Za-z]+,[A-Za-z]+ [A-Za-z]+\.,[A-Za-z]+\.")) isMatch = true;
-        else if (Regex.IsMatch(name, @"^[A-Za-z\-']+ [A-Za-z]+ [A-Za-z]+,[A-Za-z]+ [A-Za-z]+\. ")) isMatch = true;
-        else if (Regex.IsMatch(name, @"^[A-Za-z\-']+ [A-Za-z]+,[A-Za-z]+ [A-Za-z]+ [A-Za-z]+\.")) isMatch = true;
-        else if (Regex.IsMatch(name, @"^[A-Za-z\-']+,[A-Za-z]+ [A-Za-z]+\.+ [A-Za-z]+\.")) isMatch = true;
-        else if (Regex.IsMatch(name, @"^[A-Za-z\-']+,[A-Za-z]+ [A-Za-z]+\.+ [A-Za-z]")) isMatch = true;
-        else if (Regex.IsMatch(name, @"^[A-Za-z\-']+ [A-Za-z]+,[A-Za-z]+ [A-Za-z]+ [A-Za-z]")) isMatch = true;
-        else if (Regex.IsMatch(name, @"^[A-Za-z\-']+,[A-Za-z]+ [A-Za-z]+\.,[A-Za-z]+\.")) isMatch = true;
-        else if (Regex.IsMatch(name, @"^[A-Za-z\-']+,[A-Za-z]+ [A-Za-z]+,[A-Za-z]+\.")) isMatch = true;
-        else if (Regex.IsMatch(name, @"^[A-Za-z\-']+ [A-Za-z]+,[A-Za-z]+ [A-Za-z]+\.")) isMatch = true;
-        else if (Regex.IsMatch(name, @"^[A-Za-z\-']+,[A-Za-z]+ [A-Za-z]+\.")) isMatch = true;
-        else if (Regex.IsMatch(name, @"^[A-Za-z\-']+,[A-Za-z]+ [A-Za-z]+ [A-Za-z]")) isMatch = true;
-        else if (Regex.IsMatch(name, @"^[A-Za-z\-']+,[A-Za-z]+ [A-Za-z]+\.,[A-Za-z]")) isMatch = true;
-        else if (Regex.IsMatch(name, @"^[A-Za-z\-']+,[A-Za-z]+ [A-Za-z]+,[A-Za-z]")) isMatch = true;
-        else if (Regex.IsMatch(name, @"^[A-Za-z\-']+,[A-Za-z]+ [A-Za-z]")) isMatch = true;
-        else if (Regex.IsMatch(name, @"^[A-Za-z\-']+ [A-Za-z]+,[A-Za-z]")) isMatch = true;
-        else if (Regex.IsMatch(name, @"^[A-Za-z\-']+,[A-Za-z]")) isMatch = true;
-        
-       
-
-        return isMatch;
+        return validationResult;
     }
 
-    public static bool PositionTableValidation(string position, string payBasis, string status)
+    public static ValidationResult PositionTableValidation(string position, string payBasis, string status)
     {
+        ValidationResult validationResult = new ValidationResult();
         bool positionValid = false;
         bool payBasisValid = false;
         bool statusValid = false;
 
-        int invalidCharacters = 0;
+        int invalidCharactersCount = 0;
+        string invalidCharacters = "";
         int ofIndex = position.IndexOf(" OF ");
         int forIndex = position.IndexOf(" FOR ");
         int toIndex = position.IndexOf(" TO ");
@@ -50,7 +49,8 @@ public static class ValidationHelpers
         {
             if (!(Char.IsLetter(ch) || ch == ' ' || ch == ',' || ch == '\''))
             {
-                invalidCharacters++;
+                invalidCharactersCount++;
+                invalidCharacters = invalidCharacters + ch + " ";
             }
         }
 
@@ -72,15 +72,31 @@ public static class ValidationHelpers
             || status == ValidationHelpers.GetEnumDescription(StatusEnum.Status.Detailee)
             || status == ValidationHelpers.GetEnumDescription(StatusEnum.Status.PartTime)) statusValid = true;
 
-        if (positionValid == true && payBasisValid == true && statusValid == true && invalidCharacters == 0 
-            && !ValidationHelpers.ContainsSeparator(position) ) return true;
-        else return false;
+        
+        if (positionValid == true && payBasisValid == true && statusValid == true && invalidCharactersCount == 0 && !ValidationHelpers.ContainsSeparator(position))
+        {
+            validationResult.Passed = true;
+            validationResult.Results.Add("Invalid Characters:", invalidCharacters);
+            validationResult.Results.Add("Position Valid:", positionValid.ToString());
+            validationResult.Results.Add("Pay Basis Valid:", payBasisValid.ToString());
+            validationResult.Results.Add("Status Valid:", statusValid.ToString());
+            return validationResult;
+        }
+        else
+        {
+            validationResult.Passed = false;
+            validationResult.Results.Add("Invalid Characters:", invalidCharacters);
+            validationResult.Results.Add("Position Valid:", positionValid.ToString());
+            validationResult.Results.Add("Pay Basis Valid:", payBasisValid.ToString());
+            validationResult.Results.Add("Status Valid:", statusValid.ToString());
+            return validationResult;
+        }
     }
 
-    public static (List<WhiteHouseStaff>, List<WhiteHouseStaff>) WhiteHouseStaffFileValidation(List<WhiteHouseStaff> records) 
+    public static (List<WhiteHouseStaff>, List<ValidationResult>) WhiteHouseStaffFileValidation(List<WhiteHouseStaff> records) 
     {
         List<WhiteHouseStaff> validRecords = new List<WhiteHouseStaff>();
-        List<WhiteHouseStaff> invalidRecords = new List<WhiteHouseStaff>();
+        List<ValidationResult> validationResults = new List<ValidationResult>();
 
         foreach (WhiteHouseStaff record in records)
         {
@@ -100,27 +116,36 @@ public static class ValidationHelpers
             }
             else
             {
-                invalidRecords.Add(new WhiteHouseStaff()
+                validationResults.Add(new ValidationResult
                 {
-                    RowNumber = record.RowNumber,
-                    Year = record.Year,
-                    Name = record.Name,
-                    Gender = record.Gender,
-                    Salary = record.Salary,
-                    Status = record.Status,
-                    PayBasis = record.PayBasis,
-                    PositionTitle = record.PositionTitle
+                    Record = record,
+                    Passed = false,
+                    Results = new Dictionary<string, string>{ { "Contains missing values", "true" } }
                 });
             }
         }
 
-        return (validRecords, invalidRecords);
+        return (validRecords, validationResults);
     }
 
-    public static bool SalaryTableValidation(int salary, int year)
+    public static ValidationResult SalaryTableValidation(int salary, int year)
     {
-        if (salary > 0 && year > 1900) return true;
-        else return false;
+        ValidationResult validationResult = new ValidationResult();
+        bool salaryValid = salary > 0 ? true : false;
+        bool yearValid = year > 1900 ? true : false;
+
+        if (salaryValid && yearValid)
+        {
+            validationResult.Passed = true;
+        }
+        else
+        {
+            validationResult.Passed = false;
+            validationResult.Salary = new Salary() { EmployeeSalary = salary, Year = year };
+            validationResult.Results = new Dictionary<string, string>() { { "Salary value valid: ", salaryValid.ToString() }, { "Year value valid: ", yearValid.ToString() } };
+        }
+
+        return validationResult;
     }
 
     public static string GetEnumDescription(Enum value)

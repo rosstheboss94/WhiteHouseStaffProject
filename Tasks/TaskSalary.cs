@@ -7,24 +7,25 @@ namespace WhiteHouseETL.Tasks;
 
 public class TaskSalary
 {
-    public static (List<Salary>, List<WhiteHouseStaff>) Transform(List<WhiteHouseStaff> records, List<WhiteHouseStaff> invalidRecords)
+    public static (List<Salary>, List<ValidationResult>) Transform(List<WhiteHouseStaff> records, List<ValidationResult> validationResults)
     {
         List<Salary> salaries = new List<Salary>();
 
         foreach (var record in records)
-        {        
-            if (ValidationHelpers.SalaryTableValidation(record.Salary, record.Year))
+        {    
+            ValidationResult validationResult = ValidationHelpers.SalaryTableValidation(record.Salary, record.Year);
+            if (validationResult.Passed)
             {
                 Salary salary = new Salary() { RowNumber = record.RowNumber, EmployeeSalary = record.Salary, Year = record.Year};
                 salaries.Add(salary);
             }
             else
             {
-                invalidRecords.Add(record);
+                validationResults.Add(validationResult);
             }                       
         }
 
-        return (salaries, invalidRecords);
+        return (salaries, validationResults);
     }
 
     public static void Load(List<Salary> salaries)

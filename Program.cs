@@ -13,23 +13,23 @@ using (var streamReader = new StreamReader(filePath))
         List<Employee> employees = new List<Employee>();
         List<Position> positions = new List<Position>();
         List<Salary> salaries = new List<Salary>();
-        List<WhiteHouseStaff> invalidRecords = new List<WhiteHouseStaff>();
+        List<ValidationResult> validationResults = new List<ValidationResult>();
 
         csvReader.Context.RegisterClassMap<WhiteHouseStaffMap>();
         var records = csvReader.GetRecords<WhiteHouseStaff>().ToList();
 
-        (records, invalidRecords) = ValidationHelpers.WhiteHouseStaffFileValidation(records);
+        (records, validationResults) = ValidationHelpers.WhiteHouseStaffFileValidation(records);
 
-        (employees, invalidRecords) = TaskEmployee.Transform(records, invalidRecords);
-        TaskEmployee.Load(employees);
+        (employees, validationResults) = TaskEmployee.Transform(records, validationResults);
+        //TaskEmployee.Load(employees);
 
-        (positions, invalidRecords) = TaskPosition.Transform(records, invalidRecords);
-        TaskPosition.Load(positions);
+        (positions, validationResults) = TaskPosition.Transform(records, validationResults);
+        //TaskPosition.Load(positions);
 
-        (salaries, invalidRecords) = TaskSalary.Transform(records, invalidRecords);
-        TaskSalary.Load(salaries);
+        (salaries, validationResults) = TaskSalary.Transform(records, validationResults);
+        //TaskSalary.Load(salaries);
 
-        PrintInvalid(invalidRecords);
+        PrintInvalid(validationResults);
         Console.WriteLine("finished");
     }
 
@@ -37,7 +37,7 @@ using (var streamReader = new StreamReader(filePath))
 
 Console.ReadKey();
 
-void PrintInvalid(List<WhiteHouseStaff> invalidRecords)
+void PrintInvalid(List<ValidationResult> invalidRecords)
 {
     //Console.Write("year | name | gender | status | salary | pay_basis | position_title");
     //foreach (var record in invalidRecords)
