@@ -157,6 +157,9 @@ public static class TransformationHelpers
 
         string[] roles = positionTitle.Split(splitOn);
 
+        //Console.WriteLine(splitOn);
+        //Console.WriteLine(selectedIndex + " " + ofIndex + " " + forIndex + " " + toIndex + " " + commaIndex + " " + andIndex);
+
         if (splitOn == " AND ") return roles;
         else return new string[] { roles[0] };
     }

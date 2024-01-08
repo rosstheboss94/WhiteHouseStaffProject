@@ -13,39 +13,59 @@ public class TaskPosition
 
         foreach (var record in records)
         {
-            if (ValidationHelpers.PositionTableValidation(record.PositionTitle, record.PayBasis, record.Status))
-            {
-                var roles = TransformationHelpers.SplitPositionTitle(record.PositionTitle);
+ 
+            var roles = TransformationHelpers.SplitPositionTitle(record.PositionTitle);
 
-                if (roles.Length > 1)
+            if (roles.Length > 1)
+            {
+                foreach (var role in roles)
                 {
-                    foreach (var role in roles)
+                    if (ValidationHelpers.PositionTableValidation(role, record.PayBasis, record.Status))
                     {
                         Position position = new Position() { RowNumber = record.RowNumber, PositionTitle = role.Trim(), PayBasis = record.PayBasis, Status = record.Status };
                         positions.Add(position);
                     }
+                    else
+                    {
+                        WhiteHouseStaff invalid = new WhiteHouseStaff()
+                        {
+                            Year = record.Year,
+                            Name = record.Name,
+                            Gender = record.Gender,
+                            Status = record.Status,
+                            Salary = record.Salary,
+                            PayBasis = record.PayBasis,
+                            PositionTitle = record.PositionTitle
+                        };
+
+                        invalidRecords.Add(invalid);
+                    }
+
                 }
-                else
+            }
+            else
+            {
+                if (ValidationHelpers.PositionTableValidation(roles[0], record.PayBasis, record.Status))
                 {
                     Position position = new Position() { RowNumber = record.RowNumber, PositionTitle = roles[0].Trim(), PayBasis = record.PayBasis, Status = record.Status };
                     positions.Add(position);
                 }
-
-            }
-            else
-            {
-                WhiteHouseStaff invalid = new WhiteHouseStaff()
+                else
                 {
-                    Year = record.Year,
-                    Name = record.Name,
-                    Gender = record.Gender,
-                    Status = record.Status,
-                    Salary = record.Salary,
-                    PayBasis = record.PayBasis,
-                    PositionTitle = record.PositionTitle
-                };
+                    WhiteHouseStaff invalid = new WhiteHouseStaff()
+                    {
+                        Year = record.Year,
+                        Name = record.Name,
+                        Gender = record.Gender,
+                        Status = record.Status,
+                        Salary = record.Salary,
+                        PayBasis = record.PayBasis,
+                        PositionTitle = record.PositionTitle
+                    };
 
-                invalidRecords.Add(invalid);
+                    invalidRecords.Add(invalid);
+                }
+
             }
         }
 

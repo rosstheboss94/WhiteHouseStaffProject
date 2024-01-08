@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Text.RegularExpressions;
@@ -52,8 +53,10 @@ public static class ValidationHelpers
 
         foreach (char ch in position)
         {
-            if (!(Char.IsLetter(ch) || ch == ',' || ch == ' ' || ch == '\'' || ch == '&')
-                 || ch == '-' || ch == '/' || ch == '.' || ch == '(' || ch == ')') invalidCharacters++;
+            if (!(Char.IsLetter(ch) || ch == ' ' || ch == ',' || ch == '\''))
+            {
+                invalidCharacters++;
+            }
         }
 
         if (andIndex >= 0) 
@@ -67,10 +70,15 @@ public static class ValidationHelpers
             positionValid = true;
         }
 
-        if (payBasis.All(char.IsLetter)) payBasisValid = true;
-        if (status.All(char.IsAscii)) payBasisValid = true;
+        if (payBasis == ValidationHelpers.GetEnumDescription(PayBasisEnum.PayBasis.PerDiem)
+            || payBasis == ValidationHelpers.GetEnumDescription(PayBasisEnum.PayBasis.PerAnnum)) payBasisValid = true;
 
-        if (positionValid == true && payBasisValid == true && statusValid == true && invalidCharacters == 0) return true;
+        if (status == ValidationHelpers.GetEnumDescription(StatusEnum.Status.Employee)
+            || status == ValidationHelpers.GetEnumDescription(StatusEnum.Status.Detailee)
+            || status == ValidationHelpers.GetEnumDescription(StatusEnum.Status.PartTime)) statusValid = true;
+
+        if (positionValid == true && payBasisValid == true && statusValid == true && invalidCharacters == 0 
+            && !ValidationHelpers.ContainsSeparator(position) ) return true;
         else return false;
     }
 
@@ -112,5 +120,19 @@ public static class ValidationHelpers
         }
 
         return (validRecords, invalidRecords);
+    }
+
+    public static string GetEnumDescription(Enum value)
+    {
+        var field = value.GetType().GetField(value.ToString());
+        var attribute = (DescriptionAttribute)Attribute.GetCustomAttribute(field, typeof(DescriptionAttribute));
+
+        return attribute == null ? value.ToString() : attribute.Description;
+    }
+
+    private static bool ContainsSeparator(string position)
+    {
+        if (position.Contains(" OF ") || position.Contains(" FOR ") || position.Contains(" TO ") || position.Contains(" AND ") || position.Contains(",")) return true;
+        return false;
     }
 }

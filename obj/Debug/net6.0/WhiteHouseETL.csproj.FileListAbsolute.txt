@@ -21,3 +21,4 @@ C:\Users\torra\Desktop\Projects\WhiteHouseETL\WhiteHouseETL\bin\Debug\net6.0\run
 C:\Users\torra\Desktop\Projects\WhiteHouseETL\WhiteHouseETL\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
 C:\Users\torra\Desktop\Projects\WhiteHouseETL\WhiteHouseETL\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\torra\Desktop\Projects\WhiteHouseETL\WhiteHouseETL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\torra\Desktop\Projects\WhiteHouseETL\WhiteHouseETL\obj\Debug\net6.0\WhiteHouseETL.sourcelink.json
