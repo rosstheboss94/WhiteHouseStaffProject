@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\torra\\Desktop\\Projects\\WhiteHouseETL\\WhiteHouseETL\\WhiteHouseETL.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\torra\\Desktop\\Projects\\WhiteHouseETL\\WhiteHouseETL\\WhiteHouseETL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\torra\\Desktop\\Projects\\WhiteHouseETL\\WhiteHouseETL\\WhiteHouseETL.csproj",
+        "projectName": "WhiteHouseETL",
+        "projectPath": "C:\\Users\\torra\\Desktop\\Projects\\WhiteHouseETL\\WhiteHouseETL\\WhiteHouseETL.csproj",
+        "packagesPath": "C:\\Users\\torra\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\torra\\Desktop\\Projects\\WhiteHouseETL\\WhiteHouseETL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\torra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[30.0.1, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
