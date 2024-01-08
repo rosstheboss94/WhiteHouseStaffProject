@@ -13,8 +13,6 @@ public static class TransformationHelpers
         int commas = text.Count(c => c == ',');
         int spaces = text.Count(c => c == ' ');
 
-        //if (commas == 2 && spaces == 2) Console.WriteLine(text);
-
         text = text.Trim();
 
         try
@@ -111,9 +109,7 @@ public static class TransformationHelpers
         catch (Exception ex)
         {
             Console.WriteLine(ex.Message);
-            Console.WriteLine(ex.Source);
         }
-
 
         return extractedText;
     }
@@ -156,9 +152,6 @@ public static class TransformationHelpers
         if (selectedIndex == andIndex && ofIndex == -1 && forIndex == -1 && toIndex == -1 && commaIndex == -1) splitOn = " AND ";
 
         string[] roles = positionTitle.Split(splitOn);
-
-        //Console.WriteLine(splitOn);
-        //Console.WriteLine(selectedIndex + " " + ofIndex + " " + forIndex + " " + toIndex + " " + commaIndex + " " + andIndex);
 
         if (splitOn == " AND ") return roles;
         else return new string[] { roles[0] };

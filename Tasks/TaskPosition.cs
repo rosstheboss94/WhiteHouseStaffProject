@@ -27,18 +27,7 @@ public class TaskPosition
                     }
                     else
                     {
-                        WhiteHouseStaff invalid = new WhiteHouseStaff()
-                        {
-                            Year = record.Year,
-                            Name = record.Name,
-                            Gender = record.Gender,
-                            Status = record.Status,
-                            Salary = record.Salary,
-                            PayBasis = record.PayBasis,
-                            PositionTitle = record.PositionTitle
-                        };
-
-                        invalidRecords.Add(invalid);
+                        invalidRecords.Add(record);
                     }
 
                 }
@@ -52,20 +41,8 @@ public class TaskPosition
                 }
                 else
                 {
-                    WhiteHouseStaff invalid = new WhiteHouseStaff()
-                    {
-                        Year = record.Year,
-                        Name = record.Name,
-                        Gender = record.Gender,
-                        Status = record.Status,
-                        Salary = record.Salary,
-                        PayBasis = record.PayBasis,
-                        PositionTitle = record.PositionTitle
-                    };
-
-                    invalidRecords.Add(invalid);
+                    invalidRecords.Add(record);
                 }
-
             }
         }
 
@@ -78,7 +55,6 @@ public class TaskPosition
         {
             var ado = new ADOHelpers(connection);
             connection.Open();
-
 
             using (SqlCommand command = new SqlCommand("InsertPositions", connection))
             {

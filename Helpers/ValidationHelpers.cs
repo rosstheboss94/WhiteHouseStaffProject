@@ -1,10 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Linq;
-using System.Text;
+﻿using System.ComponentModel;
 using System.Text.RegularExpressions;
-using System.Threading.Tasks;
 using WhiteHouseETL.Models;
 
 namespace WhiteHouseETL.Helpers;
@@ -120,6 +115,12 @@ public static class ValidationHelpers
         }
 
         return (validRecords, invalidRecords);
+    }
+
+    public static bool SalaryTableValidation(int salary, int year)
+    {
+        if (salary > 0 && year > 1900) return true;
+        else return false;
     }
 
     public static string GetEnumDescription(Enum value)

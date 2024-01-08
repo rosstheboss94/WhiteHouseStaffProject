@@ -7,57 +7,10 @@ namespace WhiteHouseETL.Helpers;
 public class ADOHelpers
 {
     private SqlConnection _connection;
+
     public ADOHelpers(SqlConnection connection)
     {
         _connection = connection;
-    }
-
-    public void runNonQuery(string query)
-    {
-        using (SqlCommand command = new SqlCommand(query, _connection))
-        {
-            _connection.Open();
-            Console.WriteLine("running query... \n" + query);
-            command.ExecuteNonQuery();
-            Console.WriteLine("query completed");
-            _connection.Close();
-        }
-    }
-
-    public List<Dictionary<string, string>> runStoredProcedure(string storedProcedure)
-    {
-        List<Dictionary<string, string>> tableRows = new List<Dictionary<string, string>>();
-
-        _connection.Open();
-        using (SqlCommand command = new SqlCommand(storedProcedure, _connection))
-        {
-            command.CommandType = CommandType.StoredProcedure;
-
-            Console.WriteLine("Running procedure" + storedProcedure);
-            using (SqlDataReader reader = command.ExecuteReader())
-            {
-                List<string> columns = new List<string>();
-
-                for (int i = 0; i < reader.FieldCount; i++)
-                {
-                    columns.Add(reader.GetName(i));
-                }
-
-                while (reader.Read())
-                {
-                    Dictionary<string, string> row = new Dictionary<string, string>();
-                    for (int i = 0; i < reader.FieldCount; i++)
-                    {
-                        row.Add(columns[i], reader.GetString(reader.GetOrdinal(columns[i])));
-                    }
-
-                    tableRows.Add(row);
-                }
-            }
-        }
-
-        _connection.Close();
-        return tableRows;
     }
 
     public DataTable CreateEmployeeTable(List<Employee> employees)
@@ -88,6 +41,21 @@ public class ADOHelpers
         foreach (var position in positions)
         {
             dt.Rows.Add(position.RowNumber, position.PositionTitle, position.PayBasis, position.Status);
+        }
+
+        return dt;
+    }
+
+    public DataTable CreateSalaryTable(List<Salary> salaries)
+    {
+        DataTable dt = new DataTable();
+        dt.Columns.Add("Row Number", typeof(int));
+        dt.Columns.Add("Salary", typeof(string));
+        dt.Columns.Add("Year", typeof(string));
+
+        foreach (var salary in salaries)
+        {
+            dt.Rows.Add(salary.RowNumber, salary.EmployeeSalary, salary.Year);
         }
 
         return dt;
