@@ -6,29 +6,32 @@ namespace WhiteHouseETL.Helpers;
 
 public static class ValidationHelpers
 {
-    public static ValidationResult EmployeeTableValidation(string name)
+    public static ValidationResult EmployeeTableValidation(string firstName, string middleInitial, string lastName, string gender)
     {
-        ValidationResult validationResult = new ValidationResult() { Passed = false};
+        ValidationResult validationResult = new ValidationResult();
 
-        if (Regex.IsMatch(name, @"^[A-Za-z\-']+ [A-Za-z]+ [A-Za-z]+,[A-Za-z]+ [A-Za-z]+\.")) validationResult.Passed = true;
-        else if (Regex.IsMatch(name, @"^[A-Za-z\-']+ [A-Za-z]+,[A-Za-z]+ [A-Za-z]+\.,[A-Za-z]+\.")) validationResult.Passed = true;
-        else if (Regex.IsMatch(name, @"^[A-Za-z\-']+ [A-Za-z]+ [A-Za-z]+,[A-Za-z]+ [A-Za-z]+\. ")) validationResult.Passed = true;
-        else if (Regex.IsMatch(name, @"^[A-Za-z\-']+ [A-Za-z]+,[A-Za-z]+ [A-Za-z]+ [A-Za-z]+\.")) validationResult.Passed = true;
-        else if (Regex.IsMatch(name, @"^[A-Za-z\-']+,[A-Za-z]+ [A-Za-z]+\.+ [A-Za-z]+\.")) validationResult.Passed = true;
-        else if (Regex.IsMatch(name, @"^[A-Za-z\-']+,[A-Za-z]+ [A-Za-z]+\.+ [A-Za-z]")) validationResult.Passed = true;
-        else if (Regex.IsMatch(name, @"^[A-Za-z\-']+ [A-Za-z]+,[A-Za-z]+ [A-Za-z]+ [A-Za-z]")) validationResult.Passed = true;
-        else if (Regex.IsMatch(name, @"^[A-Za-z\-']+,[A-Za-z]+ [A-Za-z]+\.,[A-Za-z]+\.")) validationResult.Passed = true;
-        else if (Regex.IsMatch(name, @"^[A-Za-z\-']+,[A-Za-z]+ [A-Za-z]+,[A-Za-z]+\.")) validationResult.Passed = true;
-        else if (Regex.IsMatch(name, @"^[A-Za-z\-']+ [A-Za-z]+,[A-Za-z]+ [A-Za-z]+\.")) validationResult.Passed = true;
-        else if (Regex.IsMatch(name, @"^[A-Za-z\-']+,[A-Za-z]+ [A-Za-z]+\.")) validationResult.Passed = true;
-        else if (Regex.IsMatch(name, @"^[A-Za-z\-']+,[A-Za-z]+ [A-Za-z]+ [A-Za-z]")) validationResult.Passed = true;
-        else if (Regex.IsMatch(name, @"^[A-Za-z\-']+,[A-Za-z]+ [A-Za-z]+\.,[A-Za-z]")) validationResult.Passed = true;
-        else if (Regex.IsMatch(name, @"^[A-Za-z\-']+,[A-Za-z]+ [A-Za-z]+,[A-Za-z]")) validationResult.Passed = true;
-        else if (Regex.IsMatch(name, @"^[A-Za-z\-']+,[A-Za-z]+ [A-Za-z]")) validationResult.Passed = true;
-        else if (Regex.IsMatch(name, @"^[A-Za-z\-']+ [A-Za-z]+,[A-Za-z]")) validationResult.Passed = true;
-        else if (Regex.IsMatch(name, @"^[A-Za-z\-']+,[A-Za-z]")) validationResult.Passed = true;
+        bool firstNameValid = firstName.Contains('.') ? false : true;
+        bool middleInitialValid;
+        bool lastNameValid = Regex.IsMatch(lastName, @"^[A-Za-z\s.]+$") ? true : false;
+        bool genderValid = Regex.IsMatch(gender, @"^(Male|Female)$") ? true : false;
 
-        validationResult.Results.Add("Validation Type", "Employee");
+        if ((Regex.IsMatch(middleInitial, @"^[A-Z](\.\s?[A-Z]\.)?$") || Regex.IsMatch(middleInitial, @"^[A-Z]\.$")) || middleInitial == "") middleInitialValid = true;
+        else middleInitialValid = false;
+
+        if (firstNameValid == true && middleInitialValid == true && lastNameValid == true && genderValid == true) 
+        {
+            validationResult.Passed = true;
+        }
+        else
+        {
+            validationResult.Passed = false;
+            validationResult.Results.Add("First Name Valid", firstNameValid.ToString());
+            validationResult.Results.Add("Middle Initial Valid", middleInitialValid.ToString());
+            validationResult.Results.Add("Last Name Valid", lastNameValid.ToString());
+            validationResult.Results.Add("Gender Valid", genderValid.ToString());
+            validationResult.Results.Add("Validation Type", "Employee");
+        }
+
         return validationResult;
     }
 

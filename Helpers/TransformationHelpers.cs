@@ -4,111 +4,80 @@ namespace WhiteHouseETL.Helpers;
 
 public static class TransformationHelpers
 {
-    public static string ExtractNameWithDeLimiters(string text, string type = "LEFT", string delimiterLeft = "", string delimiterRight = "")
+    public static string SplitName(string text, string type = "FIRST")
     {
         string extractedText = "";
-        int delimterLeftIdx;
-        int delimterRightIdx;
+        string suffix;
+        int commaCount = text.Count(c => c == ',');
+        int comma = text.IndexOf(',');
+        int spaceAfterFirstName = text.IndexOf(" ", comma);
+        int commaAfterMiddleInitial = comma != -1 ? text.IndexOf(",", comma + 1) : -1;
         int length;
-        int commas = text.Count(c => c == ',');
-        int spaces = text.Count(c => c == ' ');
 
-        text = text.Trim();
-
-        try
+        if (type == "LAST" && text.Length > 0)
         {
-            switch (type)
+            if (commaAfterMiddleInitial != -1)
             {
-                case "RIGHT":
-                    delimterRightIdx = text.IndexOf(delimiterRight);
+                length = text.Length - ( commaAfterMiddleInitial + 1 );
+                suffix = text.Substring(commaAfterMiddleInitial + 1, length);
 
-                    length = text.Length - (delimterRightIdx + 1);
-
-                    if (length > 0) 
-                    {
-                        if (commas == 1 && spaces == 0) extractedText = "";
-                        else if (commas == 1 && spaces == 2)
-                        {
-                            int comma = text.IndexOf(',');
-                            int space = text.IndexOf(' ');
-                            int secondSpace = text.IndexOf(' ', text.IndexOf(' ') + 1);
-
-                            if (comma < space && comma < secondSpace) text.Substring(delimterRightIdx + 1, length);
-                            else if (comma > space && comma < secondSpace)
-                            {
-                                delimterRightIdx = secondSpace;
-                                length = text.Length - (delimterRightIdx + 1);
-                                extractedText = text.Substring(delimterRightIdx + 1, length).Substring(0,1);
-                            }
-                        }
-                        else if (commas == 2 && spaces == 0) extractedText = "";
-                        else if (commas == 2 && spaces == 2) 
-                        {
-                            delimterRightIdx = text.IndexOf(' ', text.IndexOf(' ') + 1);
-                            length = text.Length - (delimterRightIdx + 1);
-                            extractedText = text.Substring(delimterRightIdx + 1, length).Substring(0,1);
-                        } 
-                        else extractedText = text.Substring(delimterRightIdx + 1, length).Substring(0,1);
-                    }
-                    break;
-                case "BETWEEN":
-                    delimterLeftIdx = text.IndexOf(delimiterLeft);
-
-                    if (commas == 1 && spaces == 0) delimterRightIdx = text.Length - 1;
-                    else if (commas == 1 && spaces == 1)
-                    {
-                        int comma = text.IndexOf(',');
-                        int space = text.IndexOf(' ');
-
-                        if (space < comma)
-                        {
-                            delimterRightIdx = text.Length - 1;
-                        }
-                        else delimterRightIdx = text.IndexOf(delimiterRight);
-
-                    }
-                    else if (commas == 1 && spaces == 2) delimterRightIdx = text.IndexOf(' ', text.IndexOf(' ') + 1);
-                    else if (commas == 1 && spaces == 3) delimterRightIdx = text.IndexOf(' ', text.IndexOf(' ', text.IndexOf(' ') + 1) + 1);
-                    else if (commas == 2 && spaces == 0) delimterRightIdx = text.IndexOf(',', text.IndexOf(',') + 1);
-                    else if (commas == 2 && spaces == 2) delimterRightIdx = text.IndexOf(' ', text.IndexOf(' ') + 1);
-                    else delimterRightIdx = text.IndexOf(delimiterRight);
-
-                    if (delimterRightIdx < delimterLeftIdx)
-                    {
-                        int transfer = delimterLeftIdx;
-                        delimterLeftIdx = delimterRightIdx;
-                        delimterRightIdx = transfer;
-                    }
-
-                    length = delimterRightIdx - delimterLeftIdx;
-
-
-                    if (length > 0) 
-                    {
-                        extractedText = text.Substring(delimterLeftIdx + 1, length);
-                    }               
-                    break;
-                default:
-                    delimterLeftIdx = text.IndexOf(delimiterLeft);
-
-                    commas = text.Count(c => c == ',');
-                    spaces = text.Count(c => c == ' ');
-
-                    if (commas == 1 && spaces == 0) delimterLeftIdx = text.IndexOf(delimiterLeft);
-                    else delimterLeftIdx = text.IndexOf(delimiterLeft);
-
-                    length = delimterLeftIdx;
-
-                    if (length> 0)
-                    {
-                        extractedText = text.Substring(0, delimterLeftIdx);
-                    }    
-                    break;
+                length = comma;
+                extractedText = text.Substring(0, length) + " " + suffix;
+            }
+            else
+            {
+                length = comma;
+                extractedText = text.Substring(0, length);
             }
         }
-        catch (Exception ex)
+
+        if (type == "FIRST" && text.Length > 0)
         {
-            Console.WriteLine(ex.Message);
+            if (spaceAfterFirstName == -1 && commaAfterMiddleInitial != -1)
+            {
+                length = text.IndexOf(",", comma + 1) - ( comma + 1 );
+                extractedText = text.Substring(comma + 1, length);
+            }
+            else if (spaceAfterFirstName == -1)
+            {
+                length = text.Length - (comma + 1);
+                extractedText = text.Substring(comma + 1, length);
+            }
+            else
+            {
+                length = spaceAfterFirstName - ( comma + 1 );
+                extractedText = text.Substring(comma + 1, length);
+            }
+        }
+
+        if (type == "MIDDLE" && text.Length > 0)
+        {
+            if (spaceAfterFirstName != -1 && commaAfterMiddleInitial == -1) 
+            {
+                length = text.Length - ( spaceAfterFirstName + 1 );
+                extractedText = text.Substring(spaceAfterFirstName + 1, length);
+                if (!extractedText.Contains('.')) extractedText = extractedText.Substring(0, 1) + ".";
+            }
+            else if (spaceAfterFirstName != -1 && commaAfterMiddleInitial != -1)
+            {
+                length = commaAfterMiddleInitial - ( spaceAfterFirstName + 1 );
+                extractedText = text.Substring(spaceAfterFirstName + 1, length);
+                if (!extractedText.Contains('.')) extractedText = extractedText.Substring(0, 1) + ".";
+            }
+
+            if (extractedText.Count(c => c == '.') == 1 && extractedText.Length > 2)
+            {
+                int periodIndex = extractedText.IndexOf(".");
+
+                if (periodIndex == extractedText.Length - 1) 
+                {
+                    extractedText = extractedText.Substring(0, 1) + ". " + extractedText.Substring(periodIndex - 1, 2);
+                }
+                else
+                {
+                    extractedText = extractedText.Substring(0, 2) + " " + extractedText.Substring(periodIndex + 2, 1) + ".";
+                }
+            }
         }
 
         return extractedText;

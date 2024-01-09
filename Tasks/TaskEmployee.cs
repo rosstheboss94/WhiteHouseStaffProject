@@ -13,15 +13,14 @@ public static class TaskEmployee
 
         foreach (var record in records)
         {
-            ValidationResult validationResult = ValidationHelpers.EmployeeTableValidation(record.Name);
-            Employee employee = new Employee()
-            {
-                RowNumber = record.RowNumber,
-                FirstName = TransformationHelpers.ExtractNameWithDeLimiters(record.Name, type: "BETWEEN", delimiterLeft: ",", delimiterRight: " "),
-                MiddleInitial = TransformationHelpers.ExtractNameWithDeLimiters(record.Name, type: "RIGHT", delimiterRight: " "),
-                LastName = TransformationHelpers.ExtractNameWithDeLimiters(record.Name, delimiterLeft: ","),
-                Gender = record.Gender,
-            };
+            string firstName = TransformationHelpers.SplitName(record.Name, "FIRST").Trim();
+            string middleInitial = TransformationHelpers.SplitName(record.Name, "MIDDLE").Trim();
+            string lastName = TransformationHelpers.SplitName(record.Name, "LAST").Trim();
+            string gender = record.Gender.Trim();
+
+            ValidationResult validationResult = ValidationHelpers.EmployeeTableValidation(firstName, middleInitial, lastName, gender);
+
+            Employee employee = new Employee() { RowNumber = record.RowNumber, FirstName = firstName, MiddleInitial = middleInitial, LastName = lastName, Gender = gender};
 
             if (validationResult.Passed)
             {
