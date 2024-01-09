@@ -31,26 +31,19 @@ public class TaskSalary
         return (salaries, validationResults);
     }
 
-    public static void Load(List<Salary> salaries)
+    public static void Load(SqlConnection connection, List<Salary> salaries)
     {
-        using (SqlConnection connection = new SqlConnection("Data Source=TJ;Database=WhiteHouseETL;Integrated Security=True;"))
+        var ado = new ADOHelpers();
+
+        using (SqlCommand command = new SqlCommand("InsertSalaries", connection))
         {
-            var ado = new ADOHelpers(connection);
-            connection.Open();
+            command.CommandType = CommandType.StoredProcedure;
 
+            SqlParameter parameter = command.Parameters.AddWithValue("@Salaries", ado.CreateSalaryTable(salaries));
+            parameter.SqlDbType = SqlDbType.Structured;
+            parameter.TypeName = "SalaryTableType";
 
-            using (SqlCommand command = new SqlCommand("InsertSalaries", connection))
-            {
-                command.CommandType = CommandType.StoredProcedure;
-
-                SqlParameter parameter = command.Parameters.AddWithValue("@Salaries", ado.CreateSalaryTable(salaries));
-                parameter.SqlDbType = SqlDbType.Structured;
-                parameter.TypeName = "SalaryTableType";
-
-                command.ExecuteNonQuery();
-            }
-
-            connection.Close();
-        }
+            command.ExecuteNonQuery();
+        }  
     }
 }

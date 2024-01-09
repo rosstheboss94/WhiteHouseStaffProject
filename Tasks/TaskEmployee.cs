@@ -37,27 +37,19 @@ public static class TaskEmployee
         return (employees, validationResults);
     }
 
-    public static void Load(List<Employee> employees)
+    public static void Load(SqlConnection connection, List<Employee> employees)
     {
-        using (SqlConnection connection = new SqlConnection("Data Source=TJ;Database=WhiteHouseETL;Integrated Security=True;"))
+        var ado = new ADOHelpers();
+
+        using (SqlCommand command = new SqlCommand("InsertEmployees", connection))
         {
-            var ado = new ADOHelpers(connection);
-            connection.Open();
+            command.CommandType = CommandType.StoredProcedure;
 
+            SqlParameter parameter = command.Parameters.AddWithValue("@Employees", ado.CreateEmployeeTable(employees));
+            parameter.SqlDbType = SqlDbType.Structured;
+            parameter.TypeName = "EmployeeTableType";
 
-            using (SqlCommand command = new SqlCommand("InsertEmployees", connection))
-            {
-                command.CommandType = CommandType.StoredProcedure;
-
-                SqlParameter parameter = command.Parameters.AddWithValue("@Employees", ado.CreateEmployeeTable(employees));
-                parameter.SqlDbType = SqlDbType.Structured;
-                parameter.TypeName = "EmployeeTableType";
-
-                command.ExecuteNonQuery();
-            }
-
-            connection.Close();
-
-        }
+            command.ExecuteNonQuery();
+        }   
     }
 }

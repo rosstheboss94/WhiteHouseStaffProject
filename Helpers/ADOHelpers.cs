@@ -6,11 +6,9 @@ namespace WhiteHouseETL.Helpers;
 
 public class ADOHelpers
 {
-    private SqlConnection _connection;
-
-    public ADOHelpers(SqlConnection connection)
+    public ADOHelpers()
     {
-        _connection = connection;
+
     }
 
     public DataTable CreateEmployeeTable(List<Employee> employees)

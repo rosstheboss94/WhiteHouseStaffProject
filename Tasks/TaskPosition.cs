@@ -55,25 +55,19 @@ public class TaskPosition
         return (positions, validationResults);
     }
 
-    public static void Load(List<Position> positions)
+    public static void Load(SqlConnection connection, List<Position> positions)
     {
-        using (SqlConnection connection = new SqlConnection("Data Source=TJ;Database=WhiteHouseETL;Integrated Security=True;"))
+        var ado = new ADOHelpers();
+
+        using (SqlCommand command = new SqlCommand("InsertPositions", connection))
         {
-            var ado = new ADOHelpers(connection);
-            connection.Open();
+            command.CommandType = CommandType.StoredProcedure;
 
-            using (SqlCommand command = new SqlCommand("InsertPositions", connection))
-            {
-                command.CommandType = CommandType.StoredProcedure;
+            SqlParameter parameter = command.Parameters.AddWithValue("@Positions", ado.CreatePositionTable(positions));
+            parameter.SqlDbType = SqlDbType.Structured;
+            parameter.TypeName = "PositionTableType";
 
-                SqlParameter parameter = command.Parameters.AddWithValue("@Positions", ado.CreatePositionTable(positions));
-                parameter.SqlDbType = SqlDbType.Structured;
-                parameter.TypeName = "PositionTableType";
-
-                command.ExecuteNonQuery();
-            }
-
-            connection.Close();
-        }
+            command.ExecuteNonQuery();
+        }   
     }
 }

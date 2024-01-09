@@ -1,4 +1,5 @@
 ﻿using CsvHelper;
+using System.Data.SqlClient;
 using System.Globalization;
 using WhiteHouseETL.Helpers;
 using WhiteHouseETL.Models;
@@ -6,6 +7,7 @@ using WhiteHouseETL.Tasks;
 
 
 string filePath = @"C:\Users\torra\Desktop\Projects\WhiteHouseETL\WhiteHouseETL\BS&A whstafferdata.csv";
+string db = "Data Source=TJ;Database=WhiteHouseETL;Integrated Security=True;";
 
 using (var streamReader = new StreamReader(filePath))
 {
@@ -22,13 +24,19 @@ using (var streamReader = new StreamReader(filePath))
         (records, validationResults) = ValidationHelpers.WhiteHouseStaffFileValidation(records);
 
         (employees, validationResults) = TaskEmployee.Transform(records, validationResults);
-        TaskEmployee.Load(employees);
-
         (positions, validationResults) = TaskPosition.Transform(records, validationResults);
-        TaskPosition.Load(positions);
-
         (salaries, validationResults) = TaskSalary.Transform(records, validationResults);
-        TaskSalary.Load(salaries);
+
+        using (SqlConnection connection = new SqlConnection(db))
+        {
+            connection.Open();
+
+            TaskEmployee.Load(connection, employees);
+            TaskPosition.Load(connection, positions);
+            TaskSalary.Load(connection, salaries);
+
+            connection.Close();
+        }
 
         PrintInvalid(validationResults);
     }
